@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 channel-id="8.1" channel-number="8.1" tvg-name="W09DJ-D",8.1 W09DJ-D
+http://68.65.124.50:5004/auto/v8.1
+#EXTINF:-1 channel-id="16.1" channel-number="16.1" tvg-name="WNEP-TV",16.1 WNEP-TV
+http://68.65.124.50:5004/auto/v16.1
+#EXTINF:-1 channel-id="16.2" channel-number="16.2" tvg-name="WNEP2",16.2 WNEP2
+http://68.65.124.50:5004/auto/v16.2
+#EXTINF:-1 channel-id="22.1" channel-number="22.1" tvg-name="WYOU-HD",22.1 WYOU-HD
+http://68.65.124.50:5004/auto/v22.1
+#EXTINF:-1 channel-id="22.2" channel-number="22.2" tvg-name="Mystery",22.2 Mystery
+http://68.65.124.50:5004/auto/v22.2
+#EXTINF:-1 channel-id="22.3" channel-number="22.3" tvg-name="GetTV",22.3 GetTV
+http://68.65.124.50:5004/auto/v22.3
+#EXTINF:-1 channel-id="22.4" channel-number="22.4" tvg-name="Cozi",22.4 Cozi
+http://68.65.124.50:5004/auto/v22.4
+#EXTINF:-1 channel-id="28.1" channel-number="28.1" tvg-name="WBRE-DT",28.1 WBRE-DT
+http://68.65.124.50:5004/auto/v28.1
+#EXTINF:-1 channel-id="28.2" channel-number="28.2" tvg-name="Laff",28.2 Laff
+http://68.65.124.50:5004/auto/v28.2
+#EXTINF:-1 channel-id="28.3" channel-number="28.3" tvg-name="Rewind",28.3 Rewind
+http://68.65.124.50:5004/auto/v28.3
+#EXTINF:-1 channel-id="28.4" channel-number="28.4" tvg-name="Defy",28.4 Defy
+http://68.65.124.50:5004/auto/v28.4
+#EXTINF:-1 channel-id="44.1" channel-number="44.1" tvg-name="WVIA-HD",44.1 WVIA-HD
+http://68.65.124.50:5004/auto/v44.1
+#EXTINF:-1 channel-id="44.2" channel-number="44.2" tvg-name="PBSKids",44.2 PBSKids
+http://68.65.124.50:5004/auto/v44.2
+#EXTINF:-1 channel-id="44.3" channel-number="44.3" tvg-name="Create",44.3 Create
+http://68.65.124.50:5004/auto/v44.3
+#EXTINF:-1 channel-id="56.1" channel-number="56.1" tvg-name="FOX",56.1 FOX
+http://68.65.124.50:5004/auto/v56.1
+#EXTINF:-1 channel-id="56.2" channel-number="56.2" tvg-name="CW",56.2 CW
+http://68.65.124.50:5004/auto/v56.2
+#EXTINF:-1 channel-id="56.3" channel-number="56.3" tvg-name="MyTV",56.3 MyTV
+http://68.65.124.50:5004/auto/v56.3
+#EXTINF:-1 channel-id="56.4" channel-number="56.4" tvg-name="Charge!",56.4 Charge!
+http://68.65.124.50:5004/auto/v56.4
+#EXTINF:-1 channel-id="56.5" channel-number="56.5" tvg-name="ROAR",56.5 ROAR
+http://68.65.124.50:5004/auto/v56.5

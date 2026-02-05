@@ -1,0 +1,167 @@
+#EXTM3U
+#EXTINF:-1 channel-id="2.1" channel-number="2.1" tvg-name="KDKA-HD",2.1 KDKA-HD
+http://98.111.243.7:5004/auto/v2.1
+#EXTINF:-1 channel-id="2.2" channel-number="2.2" tvg-name="StartTV",2.2 StartTV
+http://98.111.243.7:5004/auto/v2.2
+#EXTINF:-1 channel-id="2.3" channel-number="2.3" tvg-name="DABL",2.3 DABL
+http://98.111.243.7:5004/auto/v2.3
+#EXTINF:-1 channel-id="2.4" channel-number="2.4" tvg-name="THE365",2.4 THE365
+http://98.111.243.7:5004/auto/v2.4
+#EXTINF:-1 channel-id="2.5" channel-number="2.5" tvg-name="Catchy",2.5 Catchy
+http://98.111.243.7:5004/auto/v2.5
+#EXTINF:-1 channel-id="4.1" channel-number="4.1" tvg-name="WTAE",4.1 WTAE
+http://98.111.243.7:5004/auto/v4.1
+#EXTINF:-1 channel-id="4.2" channel-number="4.2" tvg-name="Cozi TV",4.2 Cozi TV
+http://98.111.243.7:5004/auto/v4.2
+#EXTINF:-1 channel-id="4.3" channel-number="4.3" tvg-name="STORY",4.3 STORY
+http://98.111.243.7:5004/auto/v4.3
+#EXTINF:-1 channel-id="11.1" channel-number="11.1" tvg-name="WPXI-HD",11.1 WPXI-HD
+http://98.111.243.7:5004/auto/v11.1
+#EXTINF:-1 channel-id="11.2" channel-number="11.2" tvg-name="MeTV",11.2 MeTV
+http://98.111.243.7:5004/auto/v11.2
+#EXTINF:-1 channel-id="11.3" channel-number="11.3" tvg-name="LAFF TV",11.3 LAFF TV
+http://98.111.243.7:5004/auto/v11.3
+#EXTINF:-1 channel-id="11.4" channel-number="11.4" tvg-name="PCNC",11.4 PCNC
+http://98.111.243.7:5004/auto/v11.4
+#EXTINF:-1 channel-id="13.1" channel-number="13.1" tvg-name="WQED-HD",13.1 WQED-HD
+http://98.111.243.7:5004/auto/v13.1
+#EXTINF:-1 channel-id="13.2" channel-number="13.2" tvg-name="CREATE",13.2 CREATE
+http://98.111.243.7:5004/auto/v13.2
+#EXTINF:-1 channel-id="13.3" channel-number="13.3" tvg-name="WORLD",13.3 WORLD
+http://98.111.243.7:5004/auto/v13.3
+#EXTINF:-1 channel-id="13.4" channel-number="13.4" tvg-name="SHOW",13.4 SHOW
+http://98.111.243.7:5004/auto/v13.4
+#EXTINF:-1 channel-id="13.5" channel-number="13.5" tvg-name="KIDS",13.5 KIDS
+http://98.111.243.7:5004/auto/v13.5
+#EXTINF:-1 channel-id="16.1" channel-number="16.1" tvg-name="ION",16.1 ION
+http://98.111.243.7:5004/auto/v16.1
+#EXTINF:-1 channel-id="16.2" channel-number="16.2" tvg-name="Bounce",16.2 Bounce
+http://98.111.243.7:5004/auto/v16.2
+#EXTINF:-1 channel-id="16.3" channel-number="16.3" tvg-name="Mystery",16.3 Mystery
+http://98.111.243.7:5004/auto/v16.3
+#EXTINF:-1 channel-id="16.4" channel-number="16.4" tvg-name="IONPlus",16.4 IONPlus
+http://98.111.243.7:5004/auto/v16.4
+#EXTINF:-1 channel-id="16.5" channel-number="16.5" tvg-name="BUSTED",16.5 BUSTED
+http://98.111.243.7:5004/auto/v16.5
+#EXTINF:-1 channel-id="16.6" channel-number="16.6" tvg-name="GameSho",16.6 GameSho
+http://98.111.243.7:5004/auto/v16.6
+#EXTINF:-1 channel-id="16.7" channel-number="16.7" tvg-name="QVC",16.7 QVC
+http://98.111.243.7:5004/auto/v16.7
+#EXTINF:-1 channel-id="16.8" channel-number="16.8" tvg-name="HSN",16.8 HSN
+http://98.111.243.7:5004/auto/v16.8
+#EXTINF:-1 channel-id="19.1" channel-number="19.1" tvg-name="WPKD-DT",19.1 WPKD-DT
+http://98.111.243.7:5004/auto/v19.1
+#EXTINF:-1 channel-id="19.2" channel-number="19.2" tvg-name="H&I",19.2 H&I
+http://98.111.243.7:5004/auto/v19.2
+#EXTINF:-1 channel-id="19.3" channel-number="19.3" tvg-name="GRIT",19.3 GRIT
+http://98.111.243.7:5004/auto/v19.3
+#EXTINF:-1 channel-id="19.4" channel-number="19.4" tvg-name="Movies!",19.4 Movies!
+http://98.111.243.7:5004/auto/v19.4
+#EXTINF:-1 channel-id="19.5" channel-number="19.5" tvg-name="HSN",19.5 HSN
+http://98.111.243.7:5004/auto/v19.5
+#EXTINF:-1 channel-id="19.6" channel-number="19.6" tvg-name="Nosey",19.6 Nosey
+http://98.111.243.7:5004/auto/v19.6
+#EXTINF:-1 channel-id="22.1" channel-number="22.1" tvg-name="WPNT CW",22.1 WPNT CW
+http://98.111.243.7:5004/auto/v22.1
+#EXTINF:-1 channel-id="22.2" channel-number="22.2" tvg-name="Stadium",22.2 Stadium
+http://98.111.243.7:5004/auto/v22.2
+#EXTINF:-1 channel-id="22.3" channel-number="22.3" tvg-name="Comet",22.3 Comet
+http://98.111.243.7:5004/auto/v22.3
+#EXTINF:-1 channel-id="22.4" channel-number="22.4" tvg-name="TBD",22.4 TBD
+http://98.111.243.7:5004/auto/v22.4
+#EXTINF:-1 channel-id="40.1" channel-number="40.1" tvg-name="WPCBDT",40.1 WPCBDT
+http://98.111.243.7:5004/auto/v40.1
+#EXTINF:-1 channel-id="40.2" channel-number="40.2" tvg-name="CourtTV",40.2 CourtTV
+http://98.111.243.7:5004/auto/v40.2
+#EXTINF:-1 channel-id="40.3" channel-number="40.3" tvg-name="The365",40.3 The365
+http://98.111.243.7:5004/auto/v40.3
+#EXTINF:-1 channel-id="40.4" channel-number="40.4" tvg-name="Quest",40.4 Quest
+http://98.111.243.7:5004/auto/v40.4
+#EXTINF:-1 channel-id="40.5" channel-number="40.5" tvg-name="GetTV",40.5 GetTV
+http://98.111.243.7:5004/auto/v40.5
+#EXTINF:-1 channel-id="40.6" channel-number="40.6" tvg-name="DEFY",40.6 DEFY
+http://98.111.243.7:5004/auto/v40.6
+#EXTINF:-1 channel-id="40.7" channel-number="40.7" tvg-name="OUTLAW",40.7 OUTLAW
+http://98.111.243.7:5004/auto/v40.7
+#EXTINF:-1 channel-id="40.8" channel-number="40.8" tvg-name="PFFC",40.8 PFFC
+http://98.111.243.7:5004/auto/v40.8
+#EXTINF:-1 channel-id="45.1" channel-number="45.1" tvg-name="WWAT-CD",45.1 WWAT-CD
+http://98.111.243.7:5004/auto/v45.1
+#EXTINF:-1 channel-id="45.2" channel-number="45.2" tvg-name="ACTION",45.2 ACTION
+http://98.111.243.7:5004/auto/v45.2
+#EXTINF:-1 channel-id="45.3" channel-number="45.3" tvg-name="FAMILY",45.3 FAMILY
+http://98.111.243.7:5004/auto/v45.3
+#EXTINF:-1 channel-id="45.4" channel-number="45.4" tvg-name="ACETV",45.4 ACETV
+http://98.111.243.7:5004/auto/v45.4
+#EXTINF:-1 channel-id="45.5" channel-number="45.5" tvg-name="RIGHTNW",45.5 RIGHTNW
+http://98.111.243.7:5004/auto/v45.5
+#EXTINF:-1 channel-id="45.6" channel-number="45.6" tvg-name="YTA",45.6 YTA
+http://98.111.243.7:5004/auto/v45.6
+#EXTINF:-1 channel-id="45.7" channel-number="45.7" tvg-name="AMGTV",45.7 AMGTV
+http://98.111.243.7:5004/auto/v45.7
+#EXTINF:-1 channel-id="45.8" channel-number="45.8" tvg-name="FUNRDS",45.8 FUNRDS
+http://98.111.243.7:5004/auto/v45.8
+#EXTINF:-1 channel-id="45.10" channel-number="45.10" tvg-name="WXNATN",45.10 WXNATN
+http://98.111.243.7:5004/auto/v45.10
+#EXTINF:-1 channel-id="53.1" channel-number="53.1" tvg-name="FOX" group-title="Favorites",53.1 FOX
+http://98.111.243.7:5004/auto/v53.1
+#EXTINF:-1 channel-id="53.2" channel-number="53.2" tvg-name="Antenna",53.2 Antenna
+http://98.111.243.7:5004/auto/v53.2
+#EXTINF:-1 channel-id="53.3" channel-number="53.3" tvg-name="Charge!",53.3 Charge!
+http://98.111.243.7:5004/auto/v53.3
+#EXTINF:-1 channel-id="53.4" channel-number="53.4" tvg-name="ROAR",53.4 ROAR
+http://98.111.243.7:5004/auto/v53.4
+#EXTINF:-1 channel-id="61.1" channel-number="61.1" tvg-name="WOSC-CD",61.1 WOSC-CD
+http://98.111.243.7:5004/auto/v61.1
+#EXTINF:-1 channel-id="61.2" channel-number="61.2" tvg-name="MOVISPH",61.2 MOVISPH
+http://98.111.243.7:5004/auto/v61.2
+#EXTINF:-1 channel-id="61.3" channel-number="61.3" tvg-name="BUZZR",61.3 BUZZR
+http://98.111.243.7:5004/auto/v61.3
+#EXTINF:-1 channel-id="61.4" channel-number="61.4" tvg-name="SBN",61.4 SBN
+http://98.111.243.7:5004/auto/v61.4
+#EXTINF:-1 channel-id="61.5" channel-number="61.5" tvg-name="WEST",61.5 WEST
+http://98.111.243.7:5004/auto/v61.5
+#EXTINF:-1 channel-id="61.6" channel-number="61.6" tvg-name="QVC",61.6 QVC
+http://98.111.243.7:5004/auto/v61.6
+#EXTINF:-1 channel-id="61.7" channel-number="61.7" tvg-name="NEWSMX2",61.7 NEWSMX2
+http://98.111.243.7:5004/auto/v61.7
+#EXTINF:-1 channel-id="61.8" channel-number="61.8" tvg-name="OAN",61.8 OAN
+http://98.111.243.7:5004/auto/v61.8
+#EXTINF:-1 channel-id="61.9" channel-number="61.9" tvg-name="AMVOICE",61.9 AMVOICE
+http://98.111.243.7:5004/auto/v61.9
+#EXTINF:-1 channel-id="61.10" channel-number="61.10" tvg-name="OSN",61.10 OSN
+http://98.111.243.7:5004/auto/v61.10
+#EXTINF:-1 channel-id="61.11" channel-number="61.11" tvg-name="QVC2",61.11 QVC2
+http://98.111.243.7:5004/auto/v61.11
+#EXTINF:-1 channel-id="61.12" channel-number="61.12" tvg-name="HSN2",61.12 HSN2
+http://98.111.243.7:5004/auto/v61.12
+#EXTINF:-1 channel-id="65.1" channel-number="65.1" tvg-name="WPDN",65.1 WPDN
+http://98.111.243.7:5004/auto/v65.1
+#EXTINF:-1 channel-id="65.2" channel-number="65.2" tvg-name="WPDN-ES",65.2 WPDN-ES
+http://98.111.243.7:5004/auto/v65.2
+#EXTINF:-1 channel-id="65.3" channel-number="65.3" tvg-name="WPDN",65.3 WPDN
+http://98.111.243.7:5004/auto/v65.3
+#EXTINF:-1 channel-id="69.1" channel-number="69.1" tvg-name="WPTG-CD",69.1 WPTG-CD
+http://98.111.243.7:5004/auto/v69.1
+#EXTINF:-1 channel-id="69.2" channel-number="69.2" tvg-name="NTD",69.2 NTD
+http://98.111.243.7:5004/auto/v69.2
+#EXTINF:-1 channel-id="69.3" channel-number="69.3" tvg-name="RETRO",69.3 RETRO
+http://98.111.243.7:5004/auto/v69.3
+#EXTINF:-1 channel-id="69.4" channel-number="69.4" tvg-name="FTFSPTS",69.4 FTFSPTS
+http://98.111.243.7:5004/auto/v69.4
+#EXTINF:-1 channel-id="69.5" channel-number="69.5" tvg-name="TRUCRME",69.5 TRUCRME
+http://98.111.243.7:5004/auto/v69.5
+#EXTINF:-1 channel-id="69.6" channel-number="69.6" tvg-name="HEARTLD",69.6 HEARTLD
+http://98.111.243.7:5004/auto/v69.6
+#EXTINF:-1 channel-id="69.7" channel-number="69.7" tvg-name="AWEPLUS",69.7 AWEPLUS
+http://98.111.243.7:5004/auto/v69.7
+#EXTINF:-1 channel-id="69.8" channel-number="69.8" tvg-name="REWIND",69.8 REWIND
+http://98.111.243.7:5004/auto/v69.8
+#EXTINF:-1 channel-id="69.9" channel-number="69.9" tvg-name="MARIAVN",69.9 MARIAVN
+http://98.111.243.7:5004/auto/v69.9
+#EXTINF:-1 channel-id="69.10" channel-number="69.10" tvg-name="CANELLA",69.10 CANELLA
+http://98.111.243.7:5004/auto/v69.10
+#EXTINF:-1 channel-id="69.11" channel-number="69.11" tvg-name="SHOPLC",69.11 SHOPLC
+http://98.111.243.7:5004/auto/v69.11
+#EXTINF:-1 channel-id="69.12" channel-number="69.12" tvg-name="JTV",69.12 JTV
+http://98.111.243.7:5004/auto/v69.12

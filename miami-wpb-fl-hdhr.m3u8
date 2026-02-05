@@ -1,0 +1,187 @@
+#EXTM3U
+#EXTINF:-1 channel-id="2.1" channel-number="2.1" tvg-name="WPBT-HD",2.1 WPBT-HD
+http://173.229.4.243:5004/auto/v2.1
+#EXTINF:-1 channel-id="2.2" channel-number="2.2" tvg-name="Create",2.2 Create
+http://173.229.4.243:5004/auto/v2.2
+#EXTINF:-1 channel-id="2.3" channel-number="2.3" tvg-name="WPBTHC",2.3 WPBTHC
+http://173.229.4.243:5004/auto/v2.3
+#EXTINF:-1 channel-id="2.4" channel-number="2.4" tvg-name="Kids",2.4 Kids
+http://173.229.4.243:5004/auto/v2.4
+#EXTINF:-1 channel-id="4.1" channel-number="4.1" tvg-name="WFOR-TV",4.1 WFOR-TV
+http://173.229.4.243:5004/auto/v4.1
+#EXTINF:-1 channel-id="4.2" channel-number="4.2" tvg-name="WFORTV2",4.2 WFORTV2
+http://173.229.4.243:5004/auto/v4.2
+#EXTINF:-1 channel-id="4.3" channel-number="4.3" tvg-name="WFORTV3",4.3 WFORTV3
+http://173.229.4.243:5004/auto/v4.3
+#EXTINF:-1 channel-id="4.4" channel-number="4.4" tvg-name="WFORTV4",4.4 WFORTV4
+http://173.229.4.243:5004/auto/v4.4
+#EXTINF:-1 channel-id="4.5" channel-number="4.5" tvg-name="WFORTV5",4.5 WFORTV5
+http://173.229.4.243:5004/auto/v4.5
+#EXTINF:-1 channel-id="5.1" channel-number="5.1" tvg-name="WPTV-TV",5.1 WPTV-TV
+http://173.229.4.243:5004/auto/v5.1
+#EXTINF:-1 channel-id="5.2" channel-number="5.2" tvg-name="IONPLUS",5.2 IONPLUS
+http://173.229.4.243:5004/auto/v5.2
+#EXTINF:-1 channel-id="5.3" channel-number="5.3" tvg-name="LAFF",5.3 LAFF
+http://173.229.4.243:5004/auto/v5.3
+#EXTINF:-1 channel-id="5.4" channel-number="5.4" tvg-name="Ion",5.4 Ion
+http://173.229.4.243:5004/auto/v5.4
+#EXTINF:-1 channel-id="5.5" channel-number="5.5" tvg-name="GET",5.5 GET
+http://173.229.4.243:5004/auto/v5.5
+#EXTINF:-1 channel-id="5.6" channel-number="5.6" tvg-name="QVC2",5.6 QVC2
+http://173.229.4.243:5004/auto/v5.6
+#EXTINF:-1 channel-id="5.7" channel-number="5.7" tvg-name="Shop LC",5.7 Shop LC
+http://173.229.4.243:5004/auto/v5.7
+#EXTINF:-1 channel-id="5.11" channel-number="5.11" tvg-name="WPTV",5.11 WPTV
+http://173.229.4.243:5004/auto/v5.11
+#EXTINF:-1 channel-id="6.1" channel-number="6.1" tvg-name="WTVJ",6.1 WTVJ
+http://173.229.4.243:5004/auto/v6.1
+#EXTINF:-1 channel-id="6.2" channel-number="6.2" tvg-name="COZI TV",6.2 COZI TV
+http://173.229.4.243:5004/auto/v6.2
+#EXTINF:-1 channel-id="6.3" channel-number="6.3" tvg-name="AMCRIME",6.3 AMCRIME
+http://173.229.4.243:5004/auto/v6.3
+#EXTINF:-1 channel-id="6.4" channel-number="6.4" tvg-name="Oxygen",6.4 Oxygen
+http://173.229.4.243:5004/auto/v6.4
+#EXTINF:-1 channel-id="9.1" channel-number="9.1" tvg-name="WHDT",9.1 WHDT
+http://173.229.4.243:5004/auto/v9.1
+#EXTINF:-1 channel-id="9.2" channel-number="9.2" tvg-name="CourtTV",9.2 CourtTV
+http://173.229.4.243:5004/auto/v9.2
+#EXTINF:-1 channel-id="9.3" channel-number="9.3" tvg-name="Grit",9.3 Grit
+http://173.229.4.243:5004/auto/v9.3
+#EXTINF:-1 channel-id="9.4" channel-number="9.4" tvg-name="HSN",9.4 HSN
+http://173.229.4.243:5004/auto/v9.4
+#EXTINF:-1 channel-id="9.5" channel-number="9.5" tvg-name="QVC",9.5 QVC
+http://173.229.4.243:5004/auto/v9.5
+#EXTINF:-1 channel-id="10.1" channel-number="10.1" tvg-name="WPLG",10.1 WPLG
+http://173.229.4.243:5004/auto/v10.1
+#EXTINF:-1 channel-id="10.2" channel-number="10.2" tvg-name="METV",10.2 METV
+http://173.229.4.243:5004/auto/v10.2
+#EXTINF:-1 channel-id="10.3" channel-number="10.3" tvg-name="H & I",10.3 H & I
+http://173.229.4.243:5004/auto/v10.3
+#EXTINF:-1 channel-id="12.1" channel-number="12.1" tvg-name="CBS",12.1 CBS
+http://173.229.4.243:5004/auto/v12.1
+#EXTINF:-1 channel-id="12.2" channel-number="12.2" tvg-name="Charge!",12.2 Charge!
+http://173.229.4.243:5004/auto/v12.2
+#EXTINF:-1 channel-id="12.3" channel-number="12.3" tvg-name="Comet",12.3 Comet
+http://173.229.4.243:5004/auto/v12.3
+#EXTINF:-1 channel-id="12.4" channel-number="12.4" tvg-name="TheNest",12.4 TheNest
+http://173.229.4.243:5004/auto/v12.4
+#EXTINF:-1 channel-id="13.1" channel-number="13.1" tvg-name="WURH",13.1 WURH
+http://173.229.4.243:5004/auto/v13.1
+#EXTINF:-1 channel-id="17.1" channel-number="17.1" tvg-name="WLRN-HD",17.1 WLRN-HD
+http://173.229.4.243:5004/auto/v17.1
+#EXTINF:-1 channel-id="22.1" channel-number="22.1" tvg-name="WSBS",22.1 WSBS
+http://173.229.4.243:5004/auto/v22.1
+#EXTINF:-1 channel-id="22.2" channel-number="22.2" tvg-name="VISLATN",22.2 VISLATN
+http://173.229.4.243:5004/auto/v22.2
+#EXTINF:-1 channel-id="22.3" channel-number="22.3" tvg-name="Test",22.3 Test
+http://173.229.4.243:5004/auto/v22.3
+#EXTINF:-1 channel-id="23.1" channel-number="23.1" tvg-name="WLTV-DT",23.1 WLTV-DT
+http://173.229.4.243:5004/auto/v23.1
+#EXTINF:-1 channel-id="23.2" channel-number="23.2" tvg-name="CRIME",23.2 CRIME
+http://173.229.4.243:5004/auto/v23.2
+#EXTINF:-1 channel-id="23.3" channel-number="23.3" tvg-name="Nosey",23.3 Nosey
+http://173.229.4.243:5004/auto/v23.3
+#EXTINF:-1 channel-id="23.4" channel-number="23.4" tvg-name="MVSGLD",23.4 MVSGLD
+http://173.229.4.243:5004/auto/v23.4
+#EXTINF:-1 channel-id="23.6" channel-number="23.6" tvg-name="ShopLC",23.6 ShopLC
+http://173.229.4.243:5004/auto/v23.6
+#EXTINF:-1 channel-id="33.1" channel-number="33.1" tvg-name="WBFS-TV",33.1 WBFS-TV
+http://173.229.4.243:5004/auto/v33.1
+#EXTINF:-1 channel-id="33.2" channel-number="33.2" tvg-name="WBFSTV2",33.2 WBFSTV2
+http://173.229.4.243:5004/auto/v33.2
+#EXTINF:-1 channel-id="33.3" channel-number="33.3" tvg-name="WBFSTV3",33.3 WBFSTV3
+http://173.229.4.243:5004/auto/v33.3
+#EXTINF:-1 channel-id="33.4" channel-number="33.4" tvg-name="WBFSTV4",33.4 WBFSTV4
+http://173.229.4.243:5004/auto/v33.4
+#EXTINF:-1 channel-id="33.5" channel-number="33.5" tvg-name="WBFSTV5",33.5 WBFSTV5
+http://173.229.4.243:5004/auto/v33.5
+#EXTINF:-1 channel-id="33.6" channel-number="33.6" tvg-name="WBFSTV6",33.6 WBFSTV6
+http://173.229.4.243:5004/auto/v33.6
+#EXTINF:-1 channel-id="33.7" channel-number="33.7" tvg-name="WBFSTV7",33.7 WBFSTV7
+http://173.229.4.243:5004/auto/v33.7
+#EXTINF:-1 channel-id="35.1" channel-number="35.1" tvg-name="ION",35.1 ION
+http://173.229.4.243:5004/auto/v35.1
+#EXTINF:-1 channel-id="35.2" channel-number="35.2" tvg-name="Bounce",35.2 Bounce
+http://173.229.4.243:5004/auto/v35.2
+#EXTINF:-1 channel-id="35.3" channel-number="35.3" tvg-name="Grit",35.3 Grit
+http://173.229.4.243:5004/auto/v35.3
+#EXTINF:-1 channel-id="35.4" channel-number="35.4" tvg-name="Laff",35.4 Laff
+http://173.229.4.243:5004/auto/v35.4
+#EXTINF:-1 channel-id="35.5" channel-number="35.5" tvg-name="BUSTED",35.5 BUSTED
+http://173.229.4.243:5004/auto/v35.5
+#EXTINF:-1 channel-id="35.6" channel-number="35.6" tvg-name="HSN",35.6 HSN
+http://173.229.4.243:5004/auto/v35.6
+#EXTINF:-1 channel-id="35.7" channel-number="35.7" tvg-name="GameSho",35.7 GameSho
+http://173.229.4.243:5004/auto/v35.7
+#EXTINF:-1 channel-id="35.8" channel-number="35.8" tvg-name="Mystery",35.8 Mystery
+http://173.229.4.243:5004/auto/v35.8
+#EXTINF:-1 channel-id="39.1" channel-number="39.1" tvg-name="WSFL-DT",39.1 WSFL-DT
+http://173.229.4.243:5004/auto/v39.1
+#EXTINF:-1 channel-id="39.2" channel-number="39.2" tvg-name="CourtTV",39.2 CourtTV
+http://173.229.4.243:5004/auto/v39.2
+#EXTINF:-1 channel-id="39.3" channel-number="39.3" tvg-name="AntTV",39.3 AntTV
+http://173.229.4.243:5004/auto/v39.3
+#EXTINF:-1 channel-id="39.4" channel-number="39.4" tvg-name="IONPLUS",39.4 IONPLUS
+http://173.229.4.243:5004/auto/v39.4
+#EXTINF:-1 channel-id="39.5" channel-number="39.5" tvg-name="QVC",39.5 QVC
+http://173.229.4.243:5004/auto/v39.5
+#EXTINF:-1 channel-id="42.1" channel-number="42.1" tvg-name="WXEL-HD",42.1 WXEL-HD
+http://173.229.4.243:5004/auto/v42.1
+#EXTINF:-1 channel-id="45.1" channel-number="45.1" tvg-name="TBN HD",45.1 TBN HD
+http://173.229.4.243:5004/auto/v45.1
+#EXTINF:-1 channel-id="45.2" channel-number="45.2" tvg-name="Merit",45.2 Merit
+http://173.229.4.243:5004/auto/v45.2
+#EXTINF:-1 channel-id="45.3" channel-number="45.3" tvg-name="Inspire",45.3 Inspire
+http://173.229.4.243:5004/auto/v45.3
+#EXTINF:-1 channel-id="45.4" channel-number="45.4" tvg-name="ONTV4U",45.4 ONTV4U
+http://173.229.4.243:5004/auto/v45.4
+#EXTINF:-1 channel-id="45.5" channel-number="45.5" tvg-name="POSITIV",45.5 POSITIV
+http://173.229.4.243:5004/auto/v45.5
+#EXTINF:-1 channel-id="48.2" channel-number="48.2" tvg-name="Charge!",48.2 Charge!
+http://173.229.4.243:5004/auto/v48.2
+#EXTINF:-1 channel-id="51.1" channel-number="51.1" tvg-name="WSCV",51.1 WSCV
+http://173.229.4.243:5004/auto/v51.1
+#EXTINF:-1 channel-id="51.2" channel-number="51.2" tvg-name="EXITOS",51.2 EXITOS
+http://173.229.4.243:5004/auto/v51.2
+#EXTINF:-1 channel-id="51.4" channel-number="51.4" tvg-name="WSCV-PB",51.4 WSCV-PB
+http://173.229.4.243:5004/auto/v51.4
+#EXTINF:-1 channel-id="63.1" channel-number="63.1" tvg-name="WBEC-HD",63.1 WBEC-HD
+http://173.229.4.243:5004/auto/v63.1
+#EXTINF:-1 channel-id="63.2" channel-number="63.2" tvg-name="FL Chan",63.2 FL Chan
+http://173.229.4.243:5004/auto/v63.2
+#EXTINF:-1 channel-id="67.1" channel-number="67.1" tvg-name="ION",67.1 ION
+http://173.229.4.243:5004/auto/v67.1
+#EXTINF:-1 channel-id="67.2" channel-number="67.2" tvg-name="Mystery",67.2 Mystery
+http://173.229.4.243:5004/auto/v67.2
+#EXTINF:-1 channel-id="67.3" channel-number="67.3" tvg-name="DEFY",67.3 DEFY
+http://173.229.4.243:5004/auto/v67.3
+#EXTINF:-1 channel-id="67.4" channel-number="67.4" tvg-name="DABL",67.4 DABL
+http://173.229.4.243:5004/auto/v67.4
+#EXTINF:-1 channel-id="67.5" channel-number="67.5" tvg-name="BUSTED",67.5 BUSTED
+http://173.229.4.243:5004/auto/v67.5
+#EXTINF:-1 channel-id="67.6" channel-number="67.6" tvg-name="GameSho",67.6 GameSho
+http://173.229.4.243:5004/auto/v67.6
+#EXTINF:-1 channel-id="67.7" channel-number="67.7" tvg-name="HSN2",67.7 HSN2
+http://173.229.4.243:5004/auto/v67.7
+#EXTINF:-1 channel-id="67.8" channel-number="67.8" tvg-name="HSN",67.8 HSN
+http://173.229.4.243:5004/auto/v67.8
+#EXTINF:-1 channel-id="67.9" channel-number="67.9" tvg-name="QVC",67.9 QVC
+http://173.229.4.243:5004/auto/v67.9
+#EXTINF:-1 channel-id="69.1" channel-number="69.1" tvg-name="WAMI-DT",69.1 WAMI-DT
+http://173.229.4.243:5004/auto/v69.1
+#EXTINF:-1 channel-id="69.2" channel-number="69.2" tvg-name="Confess",69.2 Confess
+http://173.229.4.243:5004/auto/v69.2
+#EXTINF:-1 channel-id="69.3" channel-number="69.3" tvg-name="GET",69.3 GET
+http://173.229.4.243:5004/auto/v69.3
+#EXTINF:-1 channel-id="69.4" channel-number="69.4" tvg-name="BT2",69.4 BT2
+http://173.229.4.243:5004/auto/v69.4
+#EXTINF:-1 channel-id="69.5" channel-number="69.5" tvg-name="Quest",69.5 Quest
+http://173.229.4.243:5004/auto/v69.5
+#EXTINF:-1 channel-id="104.1" channel-number="104.1" tvg-name="WFOR-TV",104.1 WFOR-TV
+http://173.229.4.243:5004/auto/v104.1
+#EXTINF:-1 channel-id="106.1" channel-number="106.1" tvg-name="WTVJ-DT",106.1 WTVJ-DT
+http://173.229.4.243:5004/auto/v106.1
+#EXTINF:-1 channel-id="123.1" channel-number="123.1" tvg-name="WLTV-DT",123.1 WLTV-DT
+http://173.229.4.243:5004/auto/v123.1
+#EXTINF:-1 channel-id="151.1" channel-number="151.1" tvg-name="WSCV-DT",151.1 WSCV-DT
+http://173.229.4.243:5004/auto/v151.1

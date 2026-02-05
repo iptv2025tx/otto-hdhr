@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 channel-id="7.1" channel-number="7.1" tvg-name="CBS",7.1 CBS
+http://173.229.4.248:5004/auto/v7.1
+#EXTINF:-1 channel-id="7.2" channel-number="7.2" tvg-name="MeTV+",7.2 MeTV+
+http://173.229.4.248:5004/auto/v7.2
+#EXTINF:-1 channel-id="7.3" channel-number="7.3" tvg-name="FOX",7.3 FOX
+http://173.229.4.248:5004/auto/v7.3
+#EXTINF:-1 channel-id="7.4" channel-number="7.4" tvg-name="CW",7.4 CW
+http://173.229.4.248:5004/auto/v7.4
+#EXTINF:-1 channel-id="7.5" channel-number="7.5" tvg-name="Quest",7.5 Quest
+http://173.229.4.248:5004/auto/v7.5
+#EXTINF:-1 channel-id="7.6" channel-number="7.6" tvg-name="Outlaw",7.6 Outlaw
+http://173.229.4.248:5004/auto/v7.6
+#EXTINF:-1 channel-id="7.10" channel-number="7.10" tvg-name="CBS",7.10 CBS
+http://173.229.4.248:5004/auto/v7.10
+#EXTINF:-1 channel-id="12.1" channel-number="12.1" tvg-name="WJFW-DT",12.1 WJFW-DT
+http://173.229.4.248:5004/auto/v12.1
+#EXTINF:-1 channel-id="12.2" channel-number="12.2" tvg-name="COZI",12.2 COZI
+http://173.229.4.248:5004/auto/v12.2
+#EXTINF:-1 channel-id="12.3" channel-number="12.3" tvg-name="Antenna",12.3 Antenna
+http://173.229.4.248:5004/auto/v12.3
+#EXTINF:-1 channel-id="12.4" channel-number="12.4" tvg-name="HSN",12.4 HSN
+http://173.229.4.248:5004/auto/v12.4
+#EXTINF:-1 channel-id="12.5" channel-number="12.5" tvg-name="QVC",12.5 QVC
+http://173.229.4.248:5004/auto/v12.5
+#EXTINF:-1 channel-id="12.6" channel-number="12.6" tvg-name="MovieSp",12.6 MovieSp
+http://173.229.4.248:5004/auto/v12.6
+#EXTINF:-1 channel-id="26.1" channel-number="26.1" tvg-name="MeTV+",26.1 MeTV+
+http://173.229.4.248:5004/auto/v26.1
+#EXTINF:-1 channel-id="26.2" channel-number="26.2" tvg-name="Outlaw",26.2 Outlaw
+http://173.229.4.248:5004/auto/v26.2
+#EXTINF:-1 channel-id="33.10" channel-number="33.10" tvg-name="FOX",33.10 FOX
+http://173.229.4.248:5004/auto/v33.10
+#EXTINF:-1 channel-id="34.1" channel-number="34.1" tvg-name="CW",34.1 CW
+http://173.229.4.248:5004/auto/v34.1
+#EXTINF:-1 channel-id="36.1" channel-number="36.1" tvg-name="PBSWI",36.1 PBSWI
+http://173.229.4.248:5004/auto/v36.1
+#EXTINF:-1 channel-id="36.2" channel-number="36.2" tvg-name="PBSWI 2",36.2 PBSWI 2
+http://173.229.4.248:5004/auto/v36.2
+#EXTINF:-1 channel-id="36.3" channel-number="36.3" tvg-name="PBSWI 3",36.3 PBSWI 3
+http://173.229.4.248:5004/auto/v36.3
+#EXTINF:-1 channel-id="36.4" channel-number="36.4" tvg-name="PBSWI 4",36.4 PBSWI 4
+http://173.229.4.248:5004/auto/v36.4
