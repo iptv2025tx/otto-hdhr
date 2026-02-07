@@ -57,7 +57,7 @@ http://173.229.4.247:5004/auto/v15.12
 http://173.229.4.247:5004/auto/v15.13
 #EXTINF:-1 tvg-name="Dr Oz - HOU" group-title="Entertainment",Dr Oz - HOU
 http://173.229.4.247:5004/auto/v15.14
-#EXTINF:-1 tvg-id="beIN.Sports.USA.HD.us2" tvg-name="beIN - HOU" group-title="Sports",beIN - HOU
+#EXTINF:-1 tvg-id="bplex.tv.beIN.SPORTS.XTRA.plex" tvg-name="beIN Sports Xtra- HOU" group-title="Sports",beIN - HOU
 http://173.229.4.247:5004/auto/v15.15
 #EXTINF:-1 tvg-id="SHOPnow.us2" tvg-name="ShopNow - HOU" group-title="Entertainment",ShopNow - HOU
 http://173.229.4.247:5004/auto/v15.16
