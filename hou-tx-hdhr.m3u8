@@ -1,0 +1,233 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KPRC-DT.us_locals1" tvg-name="KPRC" group-title="Local",KPRC
+http://173.229.4.247:5004/auto/v2.1
+#EXTINF:-1 tvg-name="Start TV - HOU" group-title="Entertainment",Start TV - HOU
+http://173.229.4.247:5004/auto/v2.2
+#EXTINF:-1 tvg-name="H&I - HOU" group-title="Entertainment",H&I - HOU
+http://173.229.4.247:5004/auto/v2.3
+#EXTINF:-1 tvg-name="2 Plus" group-title="Local",2 Plus
+http://173.229.4.247:5004/auto/v2.4
+#EXTINF:-1 tvg-name="meTV Toons - HOU" group-title="Entertainment",meTV Toons - HOU
+http://173.229.4.247:5004/auto/v2.5
+#EXTINF:-1 tvg-id="KUHT-DT.us_locals1" tvg-name="PBS KUHT" group-title="Entertainment",PBS KUHT
+http://173.229.4.247:5004/auto/v8.1
+#EXTINF:-1 tvg-name="Create - HOU" group-title="Entertainment",Create - HOU
+http://173.229.4.247:5004/auto/v8.2
+#EXTINF:-1 tvg-name="PBS Kids - HOU" group-title="Entertainment",PBS Kids - HOU
+http://173.229.4.247:5004/auto/v8.3
+#EXTINF:-1 tvg-name="NHK World - HOU" group-title="Entertainment",NHK World - HOU
+http://173.229.4.247:5004/auto/v8.4
+#EXTINF:-1 tvg-name="World Channel - HOU" group-title="Entertainment",World Channel - HOU
+http://173.229.4.247:5004/auto/v8.6
+#EXTINF:-1 tvg-id="KHOU-DT.us_locals1" tvg-name="KHOU" group-title="Local",KHOU
+http://173.229.4.247:5004/auto/v11.1
+#EXTINF:-1 tvg-id="KTRK-DT.us_locals1" tvg-name="KTRK" group-title="Local",KTRK
+http://173.229.4.247:5004/auto/v13.1
+#EXTINF:-1 tvg-name="Localish - HOU" group-title="Local",Localish - HOU
+http://173.229.4.247:5004/auto/v13.2
+#EXTINF:-1 tvg-name="Charge - HOU" group-title="Entertainment",Charge - HOU
+http://173.229.4.247:5004/auto/v13.3
+#EXTINF:-1 tvg-name="QVC1 - HOU" group-title="Entertainment",QVC1 - HOU
+http://173.229.4.247:5004/auto/v13.4
+#EXTINF:-1 tvg-name="TBN - HOU" group-title="Religion",TBN - HOU
+http://173.229.4.247:5004/auto/v14.1
+#EXTINF:-1 tvg-name="TBN Inspire - HOU" group-title="Religion",TBN Inspire - HOU
+http://173.229.4.247:5004/auto/v14.2
+#EXTINF:-1 tvg-name="TBN Enlace - HOU" group-title="Religion",TBN Enlace - HOU
+http://173.229.4.247:5004/auto/v14.3
+#EXTINF:-1 tvg-id="KVVV-DT.us_locals1" tvg-name="KVVV" group-title="Local",KVVV
+http://173.229.4.247:5004/auto/v15.1
+#EXTINF:-1 tvg-name="AWSN" group-title="Sports",AWSN - HOU
+http://173.229.4.247:5004/auto/v15.4
+#EXTINF:-1 tvg-name="OAN" group-title="News",OAN
+http://173.229.4.247:5004/auto/v15.5
+#EXTINF:-1 tvg-name="In Touch Ministries - HOU" group-title="Religion",In Touch Ministries - HOU
+http://173.229.4.247:5004/auto/v15.6
+#EXTINF:-1 tvg-name="Bark TV - HOU" group-title="Entertainment",Bark TV - HOU
+http://173.229.4.247:5004/auto/v15.8
+#EXTINF:-1 tvg-name="Z Living - HOU" group-title="Entertainment",Z Living - HOU
+http://173.229.4.247:5004/auto/v15.9
+#EXTINF:-1 tvg-name="FTF - HOU" group-title="Sports",FTF - HOU
+http://173.229.4.247:5004/auto/v15.10
+#EXTINF:-1 tvg-name="MTRSPT 1 - HOU" group-title="Sports",MTRSPT 1 - HOU
+http://173.229.4.247:5004/auto/v15.11
+#EXTINF:-1 tvg-name="Binge - HOU" group-title="Entertainment",Binge - HOU
+http://173.229.4.247:5004/auto/v15.12
+#EXTINF:-1 tvg-name="National Black TV" group-title="Entertainment",National Black TV
+http://173.229.4.247:5004/auto/v15.13
+#EXTINF:-1 tvg-name="Dr Oz - HOU" group-title="Entertainment",Dr Oz - HOU
+http://173.229.4.247:5004/auto/v15.14
+#EXTINF:-1 tvg-name="beIN - HOU" group-title="Sports",beIN - HOU
+http://173.229.4.247:5004/auto/v15.15
+#EXTINF:-1 tvg-name="ShopNow - HOU" group-title="Entertainment",ShopNow - HOU
+http://173.229.4.247:5004/auto/v15.16
+#EXTINF:-1 tvg-id="KTXH-DT.us_locals1" tvg-name="KTXH" group-title="Local",KTXH
+http://173.229.4.247:5004/auto/v20.1
+#EXTINF:-1 tvg-name="Movies! - HOU" group-title="Movies",Movies! - HOU
+http://173.229.4.247:5004/auto/v20.2
+#EXTINF:-1 tvg-name="QVC2 - HOU" group-title="Entertainment",QVC2 - HOU
+http://173.229.4.247:5004/auto/v20.3
+#EXTINF:-1 tvg-name="Buzzr - HOU" group-title="Entertainment",Buzzr - HOU
+http://173.229.4.247:5004/auto/v20.4
+#EXTINF:-1 tvg-name="NewsMax2" group-title="News",NewsMax2
+http://173.229.4.247:5004/auto/v21.1
+#EXTINF:-1 tvg-name="Retro TV - HOU" group-title="Entertainment",Retro TV - HOU
+http://173.229.4.247:5004/auto/v21.2
+#EXTINF:-1 tvg-name="Heartland TV - HOU" group-title="Entertainment",Heartland TV - HOU
+http://173.229.4.247:5004/auto/v21.6
+#EXTINF:-1 tvg-name="Fun Road - HOU" group-title="Entertainment",Fun Road - HOU
+http://173.229.4.247:5004/auto/v21.15
+#EXTINF:-1 tvg-name="Action Channel - HOU" group-title="Entertainment",Action Channel - HOU
+http://173.229.4.247:5004/auto/v21.17
+#EXTINF:-1 tvg-id="KLTJ-DT.us_locals1" tvg-name="Daystar English - HOU" group-title="Religion",Daystar ENGLISH - HOU
+http://173.229.4.247:5004/auto/v22.1
+#EXTINF:-1 tvg-name="Daystar Spanish - HOU" group-title="Religion",Daystar Spanish - HOU
+http://173.229.4.247:5004/auto/v22.2
+#EXTINF:-1 tvg-id="KRIV-DT.us_locals1" tvg-name="KRIV" group-title="Local",KRIV
+http://173.229.4.247:5004/auto/v26.1
+#EXTINF:-1 tvg-name="Catchy Comedy - HOU" group-title="Entertainment",Catchy Comedy - HOU
+http://173.229.4.247:5004/auto/v26.2
+#EXTINF:-1 tvg-name="FOX Weather - HOU" group-title="News",FOX Weather - HOU
+http://173.229.4.247:5004/auto/v26.3
+#EXTINF:-1 tvg-id="KUGB-CD.us_locals1" tvg-name="KUGB" group-title="Local",KUGB-CD
+http://173.229.4.247:5004/auto/v28.1
+#EXTINF:-1 tvg-name="KUGB-CD2" group-title="Entertainment",KUGB-CD2
+http://173.229.4.247:5004/auto/v28.2
+#EXTINF:-1 tvg-name="KUGB-CD3" group-title="Entertainment",KUGB-CD3
+http://173.229.4.247:5004/auto/v28.3
+#EXTINF:-1 tvg-name="KUGB-CD4" group-title="Entertainment",KUGB-CD4
+http://173.229.4.247:5004/auto/v28.4
+#EXTINF:-1 tvg-name="KUGB-CD5" group-title="Entertainment",KUGB-CD5
+http://173.229.4.247:5004/auto/v28.5
+#EXTINF:-1 tvg-name="KUGB-CD6" group-title="Entertainment",KUGB-CD6
+http://173.229.4.247:5004/auto/v28.6
+#EXTINF:-1 tvg-name="KUGB-CD7" group-title="Entertainment",KUGB-CD7
+http://173.229.4.247:5004/auto/v28.7
+#EXTINF:-1 tvg-id="KUVM-CD.us_locals1" tvg-name="KUVM-CD1" group-title="Entertainment",KUVM-CD1
+http://173.229.4.247:5004/auto/v34.1
+#EXTINF:-1 tvg-name="KUVM-CD2" group-title="Entertainment",KUVM-CD2
+http://173.229.4.247:5004/auto/v34.2
+#EXTINF:-1 tvg-name="KUVM-CD3" group-title="Entertainment",KUVM-CD3
+http://173.229.4.247:5004/auto/v34.3
+#EXTINF:-1 tvg-name="KUVM-CD4" group-title="Entertainment",KUVM-CD4
+http://173.229.4.247:5004/auto/v34.4
+#EXTINF:-1 tvg-name="KUVM-CD5" group-title="Entertainment",KUVM-CD5
+http://173.229.4.247:5004/auto/v34.5
+#EXTINF:-1 tvg-name="KUVM-CD6" group-title="Entertainment",KUVM-CD6
+http://173.229.4.247:5004/auto/v34.6
+#EXTINF:-1 tvg-name="KUVM-CD7" group-title="Entertainment",KUVM-CD7
+http://173.229.4.247:5004/auto/v34.7
+#EXTINF:-1 tvg-id="KIAH-DT.us_locals1" tvg-name="KIAH" group-title="Local",KIAH
+http://173.229.4.247:5004/auto/v39.1
+#EXTINF:-1 tvg-name="The Nest - HOU" group-title="Entertainment",The Nest - HOU
+http://173.229.4.247:5004/auto/v39.3
+#EXTINF:-1 tvg-name="Rewind TV - HOU" group-title="Entertainment",Rewind TV - HOU
+http://173.229.4.247:5004/auto/v39.5
+#EXTINF:-1 tvg-id="KXLN-DT.us_locals1" tvg-name="KXLN" group-title="Local",KXLN
+http://173.229.4.247:5004/auto/v45.1
+#EXTINF:-1 tvg-id="KFTH-DT.us_locals1" tvg-name="KFTH" group-title="Local",KFTH
+http://173.229.4.247:5004/auto/v45.2
+#EXTINF:-1 tvg-name="ION Mystery - HOU" group-title="Entertainment",ION Mystery - HOU
+http://173.229.4.247:5004/auto/v45.3
+#EXTINF:-1 tvg-name="MovieSphere Gold - HOU" group-title="Movies",MovieSphere Gold - HOU
+http://173.229.4.247:5004/auto/v45.4
+#EXTINF:-1 tvg-name="Shop LC - HOU" group-title="Entertainment",Shop LC - HOU
+http://173.229.4.247:5004/auto/v45.5
+#EXTINF:-1 tvg-id="KTMD-DT.us_locals1" tvg-name="KTMD" group-title="Local",KTMD
+http://173.229.4.247:5004/auto/v47.1
+#EXTINF:-1 tvg-name="TeleXitos - HOU" group-title="Entertainment",TeleXitos - HOU
+http://173.229.4.247:5004/auto/v47.2
+#EXTINF:-1 tvg-name="NBC True Crimes - HOU" group-title="Entertainment",NBC True Crimes - HOU
+http://173.229.4.247:5004/auto/v47.3
+#EXTINF:-1 tvg-name="Cozi TV - HOU" group-title="Entertainment",Cozi TV - HOU
+http://173.229.4.247:5004/auto/v47.4
+#EXTINF:-1 tvg-name="Oxygen True Crime - HOU" group-title="Entertainment",Oxygen True Crime - HOU
+http://173.229.4.247:5004/auto/v47.5
+#EXTINF:-1 tvg-id="KPXB-DT.us_locals1" tvg-name="ION Television - HOU" group-title="Entertainment",ION Television - HOU
+http://173.229.4.247:5004/auto/v49.1
+#EXTINF:-1 tvg-name="Bounce TV - HOU" group-title="Entertainment",Bounce TV - HOU
+http://173.229.4.247:5004/auto/v49.2
+#EXTINF:-1 tvg-name="Laff - HOU" group-title="Entertainment",Laff - HOU
+http://173.229.4.247:5004/auto/v49.3
+#EXTINF:-1 tvg-name="ION Plus - HOU" group-title="Entertainment",ION Plus - HOU
+http://173.229.4.247:5004/auto/v49.4
+#EXTINF:-1 tvg-name="Busted - HOU" group-title="Entertainment",Busted - HOU
+http://173.229.4.247:5004/auto/v49.5
+#EXTINF:-1 tvg-name="Game Show Central - HOU" group-title="Entertainment",Game Show Central - HOU
+http://173.229.4.247:5004/auto/v49.6
+#EXTINF:-1 tvg-name="Court TV - HOU" group-title="News",Court TV - HOU
+http://173.229.4.247:5004/auto/v49.7
+#EXTINF:-1 tvg-name="Defy - HOU" group-title="Entertainment",Defy - HOU
+http://173.229.4.247:5004/auto/v49.8
+#EXTINF:-1 tvg-id="KYAZ-DT.us_locals1" tvg-name="KYAZ" group-title="Local",KYAZ
+http://173.229.4.247:5004/auto/v51.1
+#EXTINF:-1 tvg-name="meTV Plus - HOU" group-title="Entertainment",meTV Plus - HOU
+http://173.229.4.247:5004/auto/v51.2
+#EXTINF:-1 tvg-name="DABL - HOU" group-title="Entertainment",DABL - HOU
+http://173.229.4.247:5004/auto/v51.3
+#EXTINF:-1 tvg-name="Story Television - HOU" group-title="Entertainment",Story Television - HOU
+http://173.229.4.247:5004/auto/v51.4
+#EXTINF:-1 tvg-name="WEST - HOU" group-title="Entertainment",WEST - HOU
+http://173.229.4.247:5004/auto/v51.5
+#EXTINF:-1 tvg-id="KTBU-DT.us_locals1" tvg-name="Quest - HOU" group-title="Entertainment",Quest - HOU
+http://173.229.4.247:5004/auto/v55.1
+#EXTINF:-1 tvg-name="True Crime Network - HOU" group-title="Entertainment",True Crime Network - HOU
+http://173.229.4.247:5004/auto/v55.2
+#EXTINF:-1 tvg-name="Nación TV (Spanish) - HOU" group-title="Local - Spanish",Nación TV (Spanish) - HOU
+http://173.229.4.247:5004/auto/v55.3
+#EXTINF:-1 tvg-id="KUBE-DT.us_locals1" tvg-name="KUBE" group-title="Local",KUBE
+http://173.229.4.247:5004/auto/v57.1
+#EXTINF:-1 tvg-name="Ace TV - HOU" group-title="Entertainment",Ace TV - HOU
+http://173.229.4.247:5004/auto/v57.2
+#EXTINF:-1 tvg-name="Sonlife" group-title="Religion",Sonlife
+http://173.229.4.247:5004/auto/v57.3
+#EXTINF:-1 tvg-name="Shop LC - HOU" group-title="Entertainment",Shop LC - HOU
+http://173.229.4.247:5004/auto/v57.4
+#EXTINF:-1 tvg-name="KUBE 5" group-title="Local - Spanish",KUBE 5
+http://173.229.4.247:5004/auto/v57.5
+#EXTINF:-1 tvg-name="Mi Raza TV (Spanish) - HOU" group-title="Local - Spanish",Mi Raza TV (Spanish) - HOU
+http://173.229.4.247:5004/auto/v57.6
+#EXTINF:-1 tvg-name="Jewelry TV - HOU" group-title="Entertainment",Jewelry TV - HOU
+http://173.229.4.247:5004/auto/v57.8
+#EXTINF:-1 tvg-name="Visión Latina" group-title="Religion",Visión Latina
+http://173.229.4.247:5004/auto/v57.9
+#EXTINF:-1 tvg-name="Shop LC2 - HOU" group-title="Entertainment",Shop LC2 - HOU
+http://173.229.4.247:5004/auto/v57.15
+#EXTINF:-1 tvg-id="KZJL-DT.us_locals1" tvg-name="KZJL" group-title="Local",KZJL
+http://173.229.4.247:5004/auto/v61.1
+#EXTINF:-1 tvg-name="KZJL2" group-title="Entertainment",KZJL2
+http://173.229.4.247:5004/auto/v61.2
+#EXTINF:-1 tvg-name="Confess - HOU" group-title="Entertainment",Confess - HOU
+http://173.229.4.247:5004/auto/v61.6
+#EXTINF:-1 tvg-id="KFTH-DT.us_locals1" tvg-name="KFTH" group-title="Local",KFTH
+http://173.229.4.247:5004/auto/v67.1
+#EXTINF:-1 tvg-name="GET - HOU" group-title="Entertainment",GET - HOU
+http://173.229.4.247:5004/auto/v67.2
+#EXTINF:-1 tvg-name="Grit TV - HOU" group-title="Entertainment",Grit TV - HOU
+http://173.229.4.247:5004/auto/v67.3
+#EXTINF:-1 tvg-name="HSN1 - HOU" group-title="Entertainment",HSN1 - HOU
+http://173.229.4.247:5004/auto/v67.4
+#EXTINF:-1 tvg-id="KXLN-DT.us_locals1" tvg-name="KXLN" group-title="Local",KXLN
+http://173.229.4.247:5004/auto/v67.5
+#EXTINF:-1 tvg-name="BT2" group-title="Entertainment",BT2
+http://173.229.4.247:5004/auto/v67.6
+#EXTINF:-1 tvg-id="KPRC-DT.us_locals1" tvg-name="KPRC HEVC" group-title="Local",KPRC HEVC
+http://173.229.4.247:5004/auto/v102.1
+#EXTINF:-1 tvg-id="KUHT-DT.us_locals1" tvg-name="PBS KUHT HEVC" group-title="Entertainment",PBS KUHT HEVC
+http://173.229.4.247:5004/auto/v108.1
+#EXTINF:-1 tvg-id="KHOU-DT.us_locals1" tvg-name="KHOU HEVC" group-title="Local",KHOU HEVC
+http://173.229.4.247:5004/auto/v111.1
+#EXTINF:-1 tvg-id="KTRK-DT.us_locals1" tvg-name="KTRK HEVC" group-title="Local",KTRK HEVC
+http://173.229.4.247:5004/auto/v113.1
+#EXTINF:-1 tvg-id="KTXH-DT.us_locals1" tvg-name="KTXH HEVC" group-title="Local",KTXH HEVC
+http://173.229.4.247:5004/auto/v120.1
+#EXTINF:-1 tvg-id="KRIV-DT.us_locals1" tvg-name="KRIV HEVC" group-title="Local",KRIV HEVC
+http://173.229.4.247:5004/auto/v126.1
+#EXTINF:-1 tvg-id="KIAH-DT.us_locals1" tvg-name="KIAH HEVC" group-title="Local",KIAH HEVC
+http://173.229.4.247:5004/auto/v139.1
+#EXTINF:-1 tvg-id="KXLN-DT.us_locals1" tvg-name="KXLN HEVC" group-title="Local",KXLN HEVC
+http://173.229.4.247:5004/auto/v145.1
+#EXTINF:-1 tvg-id="KTMD-DT.us_locals1" tvg-name="KTMD HEVC" group-title="Local",KTMD HEVC
+http://173.229.4.247:5004/auto/v147.1
+#EXTINF:-1 tvg-id="KFTH-DT.us_locals1" tvg-name="KFTH HEVC" group-title="Local",KFTH HEVC
+http://173.229.4.247:5004/auto/v167.1
