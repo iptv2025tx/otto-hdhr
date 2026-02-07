@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="Https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" 
-#EXTINF:-1 tvg-id="WBBM-DT.us_locals1" tvg-name="IL | Chicago | CBS WBBM" group-title="Local",IL | Chicago | CBS WBBM
+#EXTINF:-1 tvg-id="WBBM-DT.us_locals1" tvg-name="IL | Chicago | CBS WBBM1" group-title="Local - CBS",IL | Chicago | CBS WBBM1
 http://173.229.4.240:5004/auto/v2.1
 #EXTINF:-1 tvg-id="Start.TV.Network.us2" tvg-name="Start TV - CHI1" group-title="Entertainment",Start TV - CHI1
 http://173.229.4.240:5004/auto/v2.2
@@ -9,7 +9,7 @@ http://173.229.4.240:5004/auto/v2.3
 http://173.229.4.240:5004/auto/v2.4
 #EXTINF:-1 tvg-id="Comet.us2" tvg-name="Comet - CHI1" group-title="Entertainment",Comet - CHI1
 http://173.229.4.240:5004/auto/v2.5
-#EXTINF:-1 tvg-id="WMAQ-DT.us_locals1" tvg-name="IL | Chicago | NBC WMAQ" group-title="Local",IL | Chicago | NBC WMAQ
+#EXTINF:-1 tvg-id="WMAQ-DT.us_locals1" tvg-name="IL | Chicago | NBC WMAQ1" group-title="Local - NBC",IL | Chicago | NBC WMAQ1
 http://173.229.4.240:5004/auto/v5.1
 #EXTINF:-1 tvg-id="COZI.TV.us2" tvg-name="Cozi - CHI1" group-title="Entertainment",Cozi - CHI1
 http://173.229.4.240:5004/auto/v5.2
@@ -17,9 +17,9 @@ http://173.229.4.240:5004/auto/v5.2
 http://173.229.4.240:5004/auto/v5.3
 #EXTINF:-1 tvg-id="Oxygen.True.Crime.HD.us2" tvg-name="Oxygen True Crime - CHI1" group-title="Entertainment",Oxygen True Crime - CHI1
 http://173.229.4.240:5004/auto/v5.4
-#EXTINF:-1 tvg-id="WLS-DT.us_locals1" tvg-name="IL | Chicago | ABC WLS" group-title="Local",IL | Chicago | ABC WLS
+#EXTINF:-1 tvg-id="WLS-DT.us_locals1" tvg-name="IL | Chicago | ABC WLS1" group-title="Local - ABC",IL | Chicago | ABC WLS1
 http://173.229.4.240:5004/auto/v7.1
-#EXTINF:-1 group-title="Entertainment",Localish - CHI1
+#EXTINF:-1 tvg-name="Localish - CHI1" group-title="Entertainment",Localish - CHI1
 http://173.229.4.240:5004/auto/v7.2
 #EXTINF:-1 tvg-id="CHARGE!.us2" tvg-name="Charge - CHI1" group-title="Entertainment",Charge - CHI1
 http://173.229.4.240:5004/auto/v7.3
@@ -27,7 +27,7 @@ http://173.229.4.240:5004/auto/v7.3
 http://173.229.4.240:5004/auto/v8.1
 #EXTINF:-1 tvg-id="Daystar.Español.us2" tvg-name="Daystar Spanish - CHI1" group-title="Religion",Daystar Spanish - CHI1
 http://173.229.4.240:5004/auto/v8.2
-#EXTINF:-1 tvg-id="WGN-DT.us_locals1" tvg-name="IL | Chicago | CW WGN" group-title="Local",IL | Chicago | CW WGN
+#EXTINF:-1 tvg-id="WGN-DT.us_locals1" tvg-name="IL | Chicago | CW WGN1" group-title="Local - CW/MNT",IL | Chicago | CW WGN1
 http://173.229.4.240:5004/auto/v9.1
 #EXTINF:-1 tvg-id="Antenna.TV.us2" tvg-name="Antenna TV - CHI1" group-title="Entertainment",Antenna TV - CHI1
 http://173.229.4.240:5004/auto/v9.2
@@ -37,19 +37,19 @@ http://173.229.4.240:5004/auto/v9.3
 http://173.229.4.240:5004/auto/v9.4
 #EXTINF:-1 tvg-id="The.Nest.us2" tvg-name="The Nest - CHI1" group-title="Entertainment",The Nest - CHI1
 http://173.229.4.240:5004/auto/v9.5
-#EXTINF:-1 tvg-id="WTTW-DT.us_locals1" tvg-name="IL | Chicago | PBS WTTW" group-title="Local",IL | Chicago | PBS WTTW
+#EXTINF:-1 tvg-id="WTTW-DT.us_locals1" tvg-name="IL | Chicago | PBS WTTW1" group-title="Entertainment",IL | Chicago | PBS WTTW1
 http://173.229.4.240:5004/auto/v11.1
 #EXTINF:-1 tvg-id="Create.us2" tvg-name="Create - CHI1" group-title="Entertainment",Create - CHI1
 http://173.229.4.240:5004/auto/v11.3
 #EXTINF:-1 tvg-id="PBS.KIDS.HD.us2" tvg-name="PBS Kids - CHI1" group-title="Entertainment",PBS Kids - CHI1
 http://173.229.4.240:5004/auto/v11.4
-#EXTINF:-1 tvg-id="WWME-CD.us_locals1" group-title="Entertainment",meTV - CHI1
+#EXTINF:-1 tvg-id="WWME-CD.us_locals1" tvg-name="meTV - CHI1" group-title="Entertainment",meTV - CHI1
 http://173.229.4.240:5004/auto/v23.1
 #EXTINF:-1 tvg-id="Heroes.and.Icons.Network.SD.us2" tvg-name="H&I - CHI1" group-title="Entertainment",H&I - CHI1
 http://173.229.4.240:5004/auto/v23.2
-#EXTINF:-1 tvg-id="WCIU-DT.us_locals1" tvg-name="IL | Chicago | The U WCIU" group-title="Local",IL | Chicago | The U WCIU
+#EXTINF:-1 tvg-id="WCIU-DT.us_locals1" tvg-name="IL | Chicago | The U WCIU" group-title="Local - CW/MNT",IL | Chicago | The U WCIU
 http://173.229.4.240:5004/auto/v26.1
-#EXTINF:-1 tvg-id="WMEU-CD.us_locals1" tvg-name="IL | Chicago | U Too WMEU" group-title="Local",IL | Chicago | U Too WMEU
+#EXTINF:-1 tvg-id="WMEU-CD.us_locals1" tvg-name="IL | Chicago | U Too WMEU" group-title="Local - CW/MNT",IL | Chicago | U Too WMEU
 http://173.229.4.240:5004/auto/v26.2
 #EXTINF:-1 tvg-id="Heroes.and.Icons.Network.SD.us2" tvg-name="H&I - CHI1" group-title="Entertainment",H&I - CHI1
 http://173.229.4.240:5004/auto/v26.4
@@ -61,7 +61,7 @@ http://173.229.4.240:5004/auto/v26.6
 http://173.229.4.240:5004/auto/v26.7
 #EXTINF:-1 tvg-id="West.TV.us2" tvg-name="WEST - CHI1" group-title="Entertainment",WEST - CHI1
 http://173.229.4.240:5004/auto/v26.8
-#EXTINF:-1 tvg-id="WFLD-DT.us_locals1" tvg-name="IL | Chicago | FOX WFLD" group-title="Local",IL | Chicago | FOX WFLD
+#EXTINF:-1 tvg-id="WFLD-DT.us_locals1" tvg-name="IL | Chicago | FOX WFLD1" group-title="Local - FOX",IL | Chicago | FOX WFLD1
 http://173.229.4.240:5004/auto/v32.1
 #EXTINF:-1 tvg-id="Movies!.us2" tvg-name="Movies! - CHI1" group-title="Entertainment",Movies! - CHI1
 http://173.229.4.240:5004/auto/v32.2
@@ -69,14 +69,14 @@ http://173.229.4.240:5004/auto/v32.2
 http://173.229.4.240:5004/auto/v32.3
 #EXTINF:-1 tvg-id="ROAR.TV.us2" tvg-name="Roar - CHI1" group-title="Entertainment",Roar - CHI1
 http://173.229.4.240:5004/auto/v32.4
-#EXTINF:-1 group-title="News",FOX Weather - CHI1
+#EXTINF:-1 tvg-id="plex.tv.FOX.Weather.plex" tvg-name="FOX Weather - CHI1" group-title="News",FOX Weather - CHI1
 http://173.229.4.240:5004/auto/v32.5
 #EXTINF:-1 tvg-id="WCPX-DT.us_locals1" tvg-name="ION Television - CHI1" group-title="Entertainment",ION Television - CHI1
 http://173.229.4.240:5004/auto/v38.1
 #EXTINF:-1 tvg-id="Bounce.TV.us2" tvg-name="Bounce TV - CHI1" group-title="Entertainment",Bounce TV - CHI1
 http://173.229.4.240:5004/auto/v38.2
 #EXTINF:-1 tvg-id="Court.TV.us2" tvg-name="Court TV - CHI1" group-title="Entertainment",Court TV - CHI1
-http://173.229.4.240:5004/auto/v38.3 
+http://173.229.4.240:5004/auto/v38.3
 #EXTINF:-1 tvg-id="Laff.us2" tvg-name="Laff - CHI1" group-title="Entertainment",Laff - CHI1
 http://173.229.4.240:5004/auto/v38.4
 #EXTINF:-1 tvg-id="plex.tv.ION.Plus.plex" tvg-name="ION Plus - CHI1" group-title="Entertainment",ION Plus - CHI1
@@ -87,21 +87,21 @@ http://173.229.4.240:5004/auto/v38.6
 http://173.229.4.240:5004/auto/v38.7
 #EXTINF:-1 tvg-id="Home.Shopping.Network.us2" tvg-name="HSN1 - CHI1" group-title="Entertainment",HSN1 - CHI1
 http://173.229.4.240:5004/auto/v38.8
-#EXTINF:-1 tvg-id="WSNS-DT.us_locals1" tvg-name="Telemundo Chicago WSNS" group-title="Entertainment",Telemundo Chicago WSNS
+#EXTINF:-1 tvg-id="WSNS-DT.us_locals1" tvg-name="Telemundo Chicago WSNS1" group-title="Entertainment",Telemundo Chicago WSNS1
 http://173.229.4.240:5004/auto/v44.1
-#EXTINF:-1 group-title="Entertainment",TeleXitos - CHI1
+#EXTINF:-1 tvg-name="TeleXitos - CHI1" group-title="Entertainment",TeleXitos - CHI1
 http://173.229.4.240:5004/auto/v44.2
 #EXTINF:-1 tvg-id="MeTV.Plus.us2" tvg-name="meTV Plus - CHI1" group-title="Entertainment",meTV Plus - CHI1
 http://173.229.4.240:5004/auto/v48.4
-#EXTINF:-1 tvg-id="WPWR-DT.us_locals1" tvg-name="IL | Chicago | MY WPWR" group-title="Local",IL | Chicago | MY WPWR
+#EXTINF:-1 tvg-id="WPWR-DT.us_locals1" tvg-name="IL | Chicago | MY WPWR1" group-title="Local - CW/MNT",IL | Chicago | MY WPWR1
 http://173.229.4.240:5004/auto/v50.1
-#EXTINF:-1 tvg-id="WXFT-DT.us_locals1" tvg-name="UniMas Chicago WXFT" group-title="Local",UniMas Chicago WXFT
+#EXTINF:-1 tvg-id="WXFT-DT.us_locals1" tvg-name="UniMas Chicago WXFT1" group-title="Local - Spanish",UniMas Chicago WXFT1
 http://173.229.4.240:5004/auto/v60.1
 #EXTINF:-1 tvg-id="plex.tv.Ion.Mystery.plex" tvg-name="ION Mystery - CHI1" group-title="Entertainment",ION Mystery - CHI1
 http://173.229.4.240:5004/auto/v60.2
 #EXTINF:-1 tvg-id="Quest.us2" tvg-name="Quest - CHI1" group-title="Entertainment",Quest - CHI1
 http://173.229.4.240:5004/auto/v60.3
-#EXTINF:-1 group-title="Entertainment",Heartland - CHI1
+#EXTINF:-1 tvg-name="Heartland - CHI1" group-title="Entertainment",Heartland - CHI1
 http://173.229.4.240:5004/auto/v62.4
 #EXTINF:-1 tvg-id="QVC.HD.us2" tvg-name="QVC1 - CHI1" group-title="Entertainment",QVC1 - CHI1
 http://173.229.4.240:5004/auto/v62.5
@@ -109,54 +109,7 @@ http://173.229.4.240:5004/auto/v62.5
 http://173.229.4.240:5004/auto/v62.7
 #EXTINF:-1 tvg-id="HSN2.us2" tvg-name="HSN2 - CHI1" group-title="Entertainment",HSN2 - CHI1
 http://173.229.4.240:5004/auto/v62.9
-#EXTINF:-1 tvg-id="WGBO-DT.us_locals1" tvg-name="Univision Chicago - WGBO" group-title="Local",Univision Chicago - WGBO
+#EXTINF:-1 tvg-id="WGBO-DT.us_locals1" tvg-name="Univision Chicago - WGBO" group-title="Local - Spanish",Univision Chicago - WGBO
 http://173.229.4.240:5004/auto/v66.1
-#EXTINF:-1 group-title="Movies",MovieSphere Gold - CHI1
+#EXTINF:-1 tvg-id="WDSF-LD.us_locals1" tvg-name="MovieSphere Gold - CHI1" group-title="Movies",MovieSphere Gold - CHI1
 http://173.229.4.240:5004/auto/v66.2
-#EXTINF:-1 tvg-id="get.us2" tvg-name="Get TV - CHI1" group-title="Entertainment",Get TV - CHI1
-http://173.229.4.240:5004/auto/v66.3#EXTINF:-1 channel-id="32.1" channel-number="32.1" tvg-name="WFLD-DT",32.1 WFLD-DT http://173.229.4.240:5004/auto/v32.1 
-#EXTINF:-1 channel-id="32.2" channel-number="32.2" tvg-name="Movies!",32.2 Movies! http://173.229.4.240:5004/auto/v32.2 
-#EXTINF:-1 channel-id="32.3" channel-number="32.3" tvg-name="Buzzr",32.3 Buzzr http://173.229.4.240:5004/auto/v32.3 
-#EXTINF:-1 channel-id="32.4" channel-number="32.4" tvg-name="ROAR",32.4 ROAR http://173.229.4.240:5004/auto/v32.4 
-#EXTINF:-1 channel-id="32.5" channel-number="32.5" tvg-name="Fox WX",32.5 Fox WX http://173.229.4.240:5004/auto/v32.5 
-#EXTINF:-1 channel-id="38.1" channel-number="38.1" tvg-name="ION",38.1 ION http://173.229.4.240:5004/auto/v38.1 
-#EXTINF:-1 channel-id="38.2" channel-number="38.2" tvg-name="Bounce",38.2 Bounce http://173.229.4.240:5004/auto/v38.2 
-#EXTINF:-1 channel-id="38.3" channel-number="38.3" tvg-name="CourtTV",38.3 CourtTV http://173.229.4.240:5004/auto/v38.3 
-#EXTINF:-1 channel-id="38.4" channel-number="38.4" tvg-name="Laff",38.4 Laff http://173.229.4.240:5004/auto/v38.4 
-#EXTINF:-1 channel-id="38.5" channel-number="38.5" tvg-name="IONPlus",38.5 IONPlus http://173.229.4.240:5004/auto/v38.5 
-#EXTINF:-1 channel-id="38.6" channel-number="38.6" tvg-name="BUSTED",38.6 BUSTED http://173.229.4.240:5004/auto/v38.6 
-#EXTINF:-1 channel-id="38.7" channel-number="38.7" tvg-name="GameSho",38.7 GameSho http://173.229.4.240:5004/auto/v38.7 
-#EXTINF:-1 channel-id="38.8" channel-number="38.8" tvg-name="HSN",38.8 HSN http://173.229.4.240:5004/auto/v38.8 
-#EXTINF:-1 channel-id="44.1" channel-number="44.1" tvg-name="WSNS-HD",44.1 WSNS-HD http://173.229.4.240:5004/auto/v44.1 
-#EXTINF:-1 channel-id="44.2" channel-number="44.2" tvg-name="T-XITOS",44.2 T-XITOS http://173.229.4.240:5004/auto/v44.2 
-#EXTINF:-1 channel-id="48.1" channel-number="48.1" tvg-name="U TOO",48.1 U TOO http://173.229.4.240:5004/auto/v48.1 
-#EXTINF:-1 channel-id="48.2" channel-number="48.2" tvg-name="START",48.2 START http://173.229.4.240:5004/auto/v48.2 
-#EXTINF:-1 channel-id="48.3" channel-number="48.3" tvg-name="CATCHY",48.3 CATCHY http://173.229.4.240:5004/auto/v48.3 
-#EXTINF:-1 channel-id="48.4" channel-number="48.4" tvg-name="METV+",48.4 METV+ http://173.229.4.240:5004/auto/v48.4 
-#EXTINF:-1 channel-id="50.1" channel-number="50.1" tvg-name="WPWR-DT",50.1 WPWR-DT http://173.229.4.240:5004/auto/v50.1 
-#EXTINF:-1 channel-id="57.1" channel-number="57.1" tvg-name="WDCI-LD",57.1 WDCI-LD http://173.229.4.240:5004/auto/v57.1 
-#EXTINF:-1 channel-id="57.2" channel-number="57.2" tvg-name="Espanol",57.2 Espanol http://173.229.4.240:5004/auto/v57.2 
-#EXTINF:-1 channel-id="57.3" channel-number="57.3" tvg-name="WDCI-3",57.3 WDCI-3 http://173.229.4.240:5004/auto/v57.3 
-#EXTINF:-1 channel-id="60.1" channel-number="60.1" tvg-name="WXFT-DT",60.1 WXFT-DT http://173.229.4.240:5004/auto/v60.1 
-#EXTINF:-1 channel-id="60.2" channel-number="60.2" tvg-name="ION MYS",60.2 ION MYS http://173.229.4.240:5004/auto/v60.2 
-#EXTINF:-1 channel-id="60.3" channel-number="60.3" tvg-name="Quest",60.3 Quest http://173.229.4.240:5004/auto/v60.3 
-#EXTINF:-1 channel-id="62.1" channel-number="62.1" tvg-name="WJYSDT",62.1 WJYSDT http://173.229.4.240:5004/auto/v62.1 
-#EXTINF:-1 channel-id="62.2" channel-number="62.2" tvg-name="Stadium",62.2 Stadium http://173.229.4.240:5004/auto/v62.2 
-#EXTINF:-1 channel-id="62.3" channel-number="62.3" tvg-name="Stadium",62.3 Stadium http://173.229.4.240:5004/auto/v62.3 
-#EXTINF:-1 channel-id="62.4" channel-number="62.4" tvg-name="HRTLND",62.4 HRTLND http://173.229.4.240:5004/auto/v62.4 
-#EXTINF:-1 channel-id="62.5" channel-number="62.5" tvg-name="QVC",62.5 QVC http://173.229.4.240:5004/auto/v62.5 
-#EXTINF:-1 channel-id="62.6" channel-number="62.6" tvg-name="TBD",62.6 TBD http://173.229.4.240:5004/auto/v62.6 
-#EXTINF:-1 channel-id="62.7" channel-number="62.7" tvg-name="JTV",62.7 JTV http://173.229.4.240:5004/auto/v62.7 
-#EXTINF:-1 channel-id="62.8" channel-number="62.8" tvg-name="HSN",62.8 HSN http://173.229.4.240:5004/auto/v62.8 
-#EXTINF:-1 channel-id="62.9" channel-number="62.9" tvg-name="HSN2",62.9 HSN2 http://173.229.4.240:5004/auto/v62.9 
-#EXTINF:-1 channel-id="62.10" channel-number="62.10" tvg-name="MCTV",62.10 MCTV http://173.229.4.240:5004/auto/v62.10 
-#EXTINF:-1 channel-id="66.1" channel-number="66.1" tvg-name="WGBO-DT",66.1 WGBO-DT http://173.229.4.240:5004/auto/v66.1 
-#EXTINF:-1 channel-id="66.2" channel-number="66.2" tvg-name="MVSGLD",66.2 MVSGLD http://173.229.4.240:5004/auto/v66.2 
-#EXTINF:-1 channel-id="66.3" channel-number="66.3" tvg-name="GET",66.3 GET http://173.229.4.240:5004/auto/v66.3 
-#EXTINF:-1 channel-id="66.4" channel-number="66.4" tvg-name="CRIME",66.4 CRIME http://173.229.4.240:5004/auto/v66.4 
-#EXTINF:-1 channel-id="66.5" channel-number="66.5" tvg-name="GRIT",66.5 GRIT http://173.229.4.240:5004/auto/v66.5 
-#EXTINF:-1 channel-id="102.1" channel-number="102.1" tvg-name="WBBM-NG",102.1 WBBM-NG http://173.229.4.240:5004/auto/v102.1 
-#EXTINF:-1 channel-id="105.1" channel-number="105.1" tvg-name="WMAQ-NG",105.1 WMAQ-NG http://173.229.4.240:5004/auto/v105.1 
-#EXTINF:-1 channel-id="109.1" channel-number="109.1" tvg-name="WGN-NG",109.1 WGN-NG http://173.229.4.240:5004/auto/v109.1 
-#EXTINF:-1 channel-id="132.1" channel-number="132.1" tvg-name="WFLD-NG",132.1 WFLD-NG http://173.229.4.240:5004/auto/v132.1 
-#EXTINF:-1 channel-id="166.1" channel-number="166.1" tvg-name="WGBO-NG",166.1 WGBO-NG http://173.229.4.240:5004/auto/v166.1
