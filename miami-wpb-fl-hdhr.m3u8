@@ -1,187 +1,185 @@
-#EXTM3U
-#EXTINF:-1 channel-id="2.1" channel-number="2.1" tvg-name="WPBT-HD",2.1 WPBT-HD
+#EXTM3U url-tvg="Https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" 
+#EXTINF:-1 tvg-id="WPBT-DT.us_locals1" tvg-name="FL | WPB | PBS WPBT" group-title="Kids & Family",FL | WPB | PBS WPBT
 http://173.229.4.243:5004/auto/v2.1
-#EXTINF:-1 channel-id="2.2" channel-number="2.2" tvg-name="Create",2.2 Create
+#EXTINF:-1 tvg-id="Create.us2" tvg-name="Create - FL" group-title="Kids & Family",Create - FL
 http://173.229.4.243:5004/auto/v2.2
-#EXTINF:-1 channel-id="2.3" channel-number="2.3" tvg-name="WPBTHC",2.3 WPBTHC
+#EXTINF:-1 tvg-id="WURH-DT.us_locals1" tvg-name="The Health Channel - FL1" group-title="Kids & Family",The Health Channel - FL1
 http://173.229.4.243:5004/auto/v2.3
-#EXTINF:-1 channel-id="2.4" channel-number="2.4" tvg-name="Kids",2.4 Kids
+#EXTINF:-1 tvg-id="PBS.KIDS.HD.us2" tvg-name="PBS KIDS - FL" group-title="Kids & Family",PBS KIDS - FL
 http://173.229.4.243:5004/auto/v2.4
-#EXTINF:-1 channel-id="4.1" channel-number="4.1" tvg-name="WFOR-TV",4.1 WFOR-TV
+#EXTINF:-1 tvg-id="WFOR-DT.us_locals1" tvg-name="FL | Miami | CBS WFOR" group-title="Local - CBS",FL | Miami | CBS WFOR
 http://173.229.4.243:5004/auto/v4.1
-#EXTINF:-1 channel-id="4.2" channel-number="4.2" tvg-name="WFORTV2",4.2 WFORTV2
+#EXTINF:-1 tvg-id="Start.TV.Network.us2" tvg-name="Start TV - FL" group-title="Entertainment",Start TV - FL
 http://173.229.4.243:5004/auto/v4.2
-#EXTINF:-1 channel-id="4.3" channel-number="4.3" tvg-name="WFORTV3",4.3 WFORTV3
+#EXTINF:-1 tvg-id="Dabl.us2" tvg-name="DABL - FL1" group-title="Entertainment",DABL - FL1
 http://173.229.4.243:5004/auto/v4.3
-#EXTINF:-1 channel-id="4.4" channel-number="4.4" tvg-name="WFORTV4",4.4 WFORTV4
+#EXTINF:-1 tvg-id="plex.tv.Outlaw.plex" tvg-name="Outlaw - FL" group-title="Entertainment",Outlaw - FL
 http://173.229.4.243:5004/auto/v4.4
-#EXTINF:-1 channel-id="4.5" channel-number="4.5" tvg-name="WFORTV5",4.5 WFORTV5
+#EXTINF:-1 tvg-id="Catchy.Comedy.us2" tvg-name="Catchy Comedy - FL" group-title="Entertainment",Catchy Comedy - FL
 http://173.229.4.243:5004/auto/v4.5
-#EXTINF:-1 channel-id="5.1" channel-number="5.1" tvg-name="WPTV-TV",5.1 WPTV-TV
+#EXTINF:-1 tvg-id="WPTV-DT.us_locals1" tvg-name="FL | WPB | NBC WPTV" group-title="Local - NBC",FL | WPB | NBC WPTV
 http://173.229.4.243:5004/auto/v5.1
-#EXTINF:-1 channel-id="5.2" channel-number="5.2" tvg-name="IONPLUS",5.2 IONPLUS
+#EXTINF:-1 tvg-id="plex.tv.ION.Plus.plex" tvg-name="ION Plus - FL1" group-title="Entertainment",ION Plus - FL1
 http://173.229.4.243:5004/auto/v5.2
-#EXTINF:-1 channel-id="5.3" channel-number="5.3" tvg-name="LAFF",5.3 LAFF
+#EXTINF:-1 tvg-id="Laff.us2" tvg-name="LAFF - FL" group-title="Entertainment",LAFF - FL
 http://173.229.4.243:5004/auto/v5.3
-#EXTINF:-1 channel-id="5.4" channel-number="5.4" tvg-name="Ion",5.4 Ion
+#EXTINF:-1 tvg-id="WPXM-DT.us_locals1" tvg-name="ION Television - FL1" group-title="Entertainment",ION Television - FL1
 http://173.229.4.243:5004/auto/v5.4
-#EXTINF:-1 channel-id="5.5" channel-number="5.5" tvg-name="GET",5.5 GET
+#EXTINF:-1 tvg-id="get.us2" tvg-name="GET - FL1" group-title="Entertainment",GET - FL1
 http://173.229.4.243:5004/auto/v5.5
-#EXTINF:-1 channel-id="5.6" channel-number="5.6" tvg-name="QVC2",5.6 QVC2
+#EXTINF:-1 tvg-id="QVC2.HD.us2" tvg-name="QVC2 - FL" group-title="Shopping",QVC2 - FL
 http://173.229.4.243:5004/auto/v5.6
-#EXTINF:-1 channel-id="5.7" channel-number="5.7" tvg-name="Shop LC",5.7 Shop LC
+#EXTINF:-1 tvg-id="Shop.LC.us2" tvg-name="Shop LC - FL1" group-title="Shopping",Shop LC - FL1
 http://173.229.4.243:5004/auto/v5.7
-#EXTINF:-1 channel-id="5.11" channel-number="5.11" tvg-name="WPTV",5.11 WPTV
+#EXTINF:-1 tvg-id="WPTV-DT.us_locals1" tvg-name="FL | WPB | NBC WPTV" group-title="Local - NBC",FL | WPB | NBC WPTV
 http://173.229.4.243:5004/auto/v5.11
-#EXTINF:-1 channel-id="6.1" channel-number="6.1" tvg-name="WTVJ",6.1 WTVJ
+#EXTINF:-1 tvg-id="WTVJ-DT.us_locals1" tvg-name="FL | Miami | NBC WTVJ" group-title="Local - NBC",FL | Miami | NBC WTVJ
 http://173.229.4.243:5004/auto/v6.1
-#EXTINF:-1 channel-id="6.2" channel-number="6.2" tvg-name="COZI TV",6.2 COZI TV
+#EXTINF:-1 tvg-id="COZI.TV.us2" tvg-name="COZI TV" group-title="Entertainment",COZI TV
 http://173.229.4.243:5004/auto/v6.2
-#EXTINF:-1 channel-id="6.3" channel-number="6.3" tvg-name="AMCRIME",6.3 AMCRIME
+#EXTINF:-1 tvg-id="NBC.True.CRMZ.us2" tvg-name="NBC True Crimes" group-title="Entertainment",NBC True Crimes
 http://173.229.4.243:5004/auto/v6.3
-#EXTINF:-1 channel-id="6.4" channel-number="6.4" tvg-name="Oxygen",6.4 Oxygen
+#EXTINF:-1 tvg-id="Oxygen.True.Crime.HD.us2" tvg-name="Oxygen True Crime" group-title="Entertainment",Oxygen True Crime
 http://173.229.4.243:5004/auto/v6.4
-#EXTINF:-1 channel-id="9.1" channel-number="9.1" tvg-name="WHDT",9.1 WHDT
+#EXTINF:-1 tvg-name="FL | WPB | WHDT" group-title="Local - CW/IND/MY",FL | WPB | WHDT
 http://173.229.4.243:5004/auto/v9.1
-#EXTINF:-1 channel-id="9.2" channel-number="9.2" tvg-name="CourtTV",9.2 CourtTV
+#EXTINF:-1 tvg-id="Court.TV.us2" tvg-name="Court TV - FL1" group-title="News",Court TV - FL1
 http://173.229.4.243:5004/auto/v9.2
-#EXTINF:-1 channel-id="9.3" channel-number="9.3" tvg-name="Grit",9.3 Grit
+#EXTINF:-1 tvg-id="Grit.us2" tvg-name="Grit TV - FL1" group-title="Entertainment",Grit TV - FL1
 http://173.229.4.243:5004/auto/v9.3
-#EXTINF:-1 channel-id="9.4" channel-number="9.4" tvg-name="HSN",9.4 HSN
+#EXTINF:-1 tvg-id="HSN.Home.Shopping.Network.HD.us2 " tvg-name="HSN1 - FL1" group-title="Shopping",HSN1 - FL1
 http://173.229.4.243:5004/auto/v9.4
-#EXTINF:-1 channel-id="9.5" channel-number="9.5" tvg-name="QVC",9.5 QVC
+#EXTINF:-1 tvg-id="QVC.HD.us2" tvg-name="QVC1 - FL1" group-title="Shopping",QVC1 - FL1
 http://173.229.4.243:5004/auto/v9.5
-#EXTINF:-1 channel-id="10.1" channel-number="10.1" tvg-name="WPLG",10.1 WPLG
+#EXTINF:-1 tvg-id="WPLG-DT.us_locals1" tvg-name="FL | Miami | WPLG" group-title="Local - CW/IND/MY",FL | Miami | WPLG
 http://173.229.4.243:5004/auto/v10.1
-#EXTINF:-1 channel-id="10.2" channel-number="10.2" tvg-name="METV",10.2 METV
+#EXTINF:-1 tvg-id="Me.TV.Network.us2" tvg-name="METV - FL" group-title="Entertainment",METV - FL
 http://173.229.4.243:5004/auto/v10.2
-#EXTINF:-1 channel-id="10.3" channel-number="10.3" tvg-name="H & I",10.3 H & I
+#EXTINF:-1 tvg-id="Heroes.and.Icons.Network.SD.us2" tvg-name="H&I - FL" group-title="Entertainment",H&I - FL
 http://173.229.4.243:5004/auto/v10.3
-#EXTINF:-1 channel-id="12.1" channel-number="12.1" tvg-name="CBS",12.1 CBS
+#EXTINF:-1 tvg-id="WPEC-DT.us_locals1" tvg-name="FL | WPB | CBS WPEC" group-title="Local - CBS",FL | WPB | CBS WPEC
 http://173.229.4.243:5004/auto/v12.1
-#EXTINF:-1 channel-id="12.2" channel-number="12.2" tvg-name="Charge!",12.2 Charge!
+#EXTINF:-1 tvg-id="CHARGE!.us2" tvg-name="Charge! - FL1" group-title="Entertainment",Charge! - FL1
 http://173.229.4.243:5004/auto/v12.2
-#EXTINF:-1 channel-id="12.3" channel-number="12.3" tvg-name="Comet",12.3 Comet
+#EXTINF:-1 tvg-id="Comet.us2" tvg-name="Comet - FL1" group-title="Entertainment",Comet - FL1
 http://173.229.4.243:5004/auto/v12.3
-#EXTINF:-1 channel-id="12.4" channel-number="12.4" tvg-name="TheNest",12.4 TheNest
+#EXTINF:-1 tvg-id="The.Nest.us2" tvg-name="The Nest - FL" group-title="Entertainment",The Nest - FL
 http://173.229.4.243:5004/auto/v12.4
-#EXTINF:-1 channel-id="13.1" channel-number="13.1" tvg-name="WURH",13.1 WURH
+#EXTINF:-1 tvg-id="WURH-DT.us_locals1" tvg-name="The Health Channel - FL2" group-title="Kids & Family",The Health Channel - FL2
 http://173.229.4.243:5004/auto/v13.1
-#EXTINF:-1 channel-id="17.1" channel-number="17.1" tvg-name="WLRN-HD",17.1 WLRN-HD
+#EXTINF:-1 tvg-id="WLRN-DT.us_locals1" tvg-name="FL | Miami | PBS WLRN" group-title="Kids & Family",FL | Miami | PBS WLRN
 http://173.229.4.243:5004/auto/v17.1
-#EXTINF:-1 channel-id="22.1" channel-number="22.1" tvg-name="WSBS",22.1 WSBS
+#EXTINF:-1 tvg-id="WSBS-DT.us_locals1" tvg-name="Mega TV - FL1" group-title="Spanish",MEGA TV - FL1
 http://173.229.4.243:5004/auto/v22.1
-#EXTINF:-1 channel-id="22.2" channel-number="22.2" tvg-name="VISLATN",22.2 VISLATN
+#EXTINF:-1 tvg-name="Visión Latina - FL" group-title="Spanish",Visión Latina - FL
 http://173.229.4.243:5004/auto/v22.2
-#EXTINF:-1 channel-id="22.3" channel-number="22.3" tvg-name="Test",22.3 Test
+#EXTINF:-1 tvg-id="WSBS-DT.us_locals1" tvg-name="Mega TV - FL2" group-title="Spanish",Mega TV - FL2
 http://173.229.4.243:5004/auto/v22.3
-#EXTINF:-1 channel-id="23.1" channel-number="23.1" tvg-name="WLTV-DT",23.1 WLTV-DT
+#EXTINF:-1 tvg-id="WLTV-DT.us_locals1" tvg-name="Univision Miami WLTV" group-title="Spanish",Univision Miami WLTV
 http://173.229.4.243:5004/auto/v23.1
-#EXTINF:-1 channel-id="23.2" channel-number="23.2" tvg-name="CRIME",23.2 CRIME
+#EXTINF:-1 tvg-name="True Crime Network - FL" group-title="Entertainment",True Crime Network - FL
 http://173.229.4.243:5004/auto/v23.2
-#EXTINF:-1 channel-id="23.3" channel-number="23.3" tvg-name="Nosey",23.3 Nosey
+#EXTINF:-1 tvg-id="plex.tv.Nosey.plex" tvg-name="Nosey - FL" group-title="Entertainment",Nosey - FL
 http://173.229.4.243:5004/auto/v23.3
-#EXTINF:-1 channel-id="23.4" channel-number="23.4" tvg-name="MVSGLD",23.4 MVSGLD
+#EXTINF:-1 tvg-id="WDSF-LD.us_locals1" tvg-name="MovieSphere Gold - FL" group-title="Movies",MovieSphere Gold - FL
 http://173.229.4.243:5004/auto/v23.4
-#EXTINF:-1 channel-id="23.6" channel-number="23.6" tvg-name="ShopLC",23.6 ShopLC
+#EXTINF:-1 tvg-id="Shop.LC.us2" tvg-name="Shop LC - FL2" group-title="Shopping",Shop LC - FL2
 http://173.229.4.243:5004/auto/v23.6
-#EXTINF:-1 channel-id="33.1" channel-number="33.1" tvg-name="WBFS-TV",33.1 WBFS-TV
+#EXTINF:-1 tvg-id="WBFS-DT.us_locals1" tvg-name="FL | Miami | CW WBFS" group-title="Local - CW/IND/MY",FL | Miami | CW WBFS
 http://173.229.4.243:5004/auto/v33.1
-#EXTINF:-1 channel-id="33.2" channel-number="33.2" tvg-name="WBFSTV2",33.2 WBFSTV2
+#EXTINF:-1 tvg-id="Movies!.us2" tvg-name="Movies! - FL" group-title="Movies",Movies! - FL
 http://173.229.4.243:5004/auto/v33.2
-#EXTINF:-1 channel-id="33.3" channel-number="33.3" tvg-name="WBFSTV3",33.3 WBFSTV3
+#EXTINF:-1 tvg-id="CHARGE!.us2" tvg-name="Charge - FL2" group-title="Entertainment",Charge - FL2
 http://173.229.4.243:5004/auto/v33.3
-#EXTINF:-1 channel-id="33.4" channel-number="33.4" tvg-name="WBFSTV4",33.4 WBFSTV4
+#EXTINF:-1 tvg-id="Comet.us2" tvg-name="Comet - FL2" group-title="Entertainment",Comet - FL2
 http://173.229.4.243:5004/auto/v33.4
-#EXTINF:-1 channel-id="33.5" channel-number="33.5" tvg-name="WBFSTV5",33.5 WBFSTV5
+#EXTINF:-1 tvg-id="Story.us2" tvg-name="Story Television - FL" group-title="Entertainment",Story Television - FL
 http://173.229.4.243:5004/auto/v33.5
-#EXTINF:-1 channel-id="33.6" channel-number="33.6" tvg-name="WBFSTV6",33.6 WBFSTV6
+#EXTINF:-1 tvg-id="ROAR.TV.us2" tvg-name="Roar - FL" group-title="Entertainment",Roar - FL
 http://173.229.4.243:5004/auto/v33.6
-#EXTINF:-1 channel-id="33.7" channel-number="33.7" tvg-name="WBFSTV7",33.7 WBFSTV7
+#EXTINF:-1 tvg-id="MeTV.Toons.us2" tvg-name="meTV Toons - FL" group-title="Kids & Family",meTV Toons - FL
 http://173.229.4.243:5004/auto/v33.7
-#EXTINF:-1 channel-id="35.1" channel-number="35.1" tvg-name="ION",35.1 ION
+#EXTINF:-1 tvg-id="WPXM-DT.us_locals1" tvg-name="ION Television - FL2" group-title="Entertainment",ION Television - FL2
 http://173.229.4.243:5004/auto/v35.1
-#EXTINF:-1 channel-id="35.2" channel-number="35.2" tvg-name="Bounce",35.2 Bounce
+#EXTINF:-1 tvg-id="Bounce.TV.us2" tvg-name="Bounce TV - FL" group-title="Entertainment",Bounce TV - FL
 http://173.229.4.243:5004/auto/v35.2
-#EXTINF:-1 channel-id="35.3" channel-number="35.3" tvg-name="Grit",35.3 Grit
+#EXTINF:-1 tvg-id="Grit.us2" tvg-name="Grit TV - FL2" group-title="Entertainment",Grit TV - FL2
 http://173.229.4.243:5004/auto/v35.3
-#EXTINF:-1 channel-id="35.4" channel-number="35.4" tvg-name="Laff",35.4 Laff
+#EXTINF:-1 tvg-name="LAFF - FL" group-title="Entertainment",LAFF - FL
 http://173.229.4.243:5004/auto/v35.4
-#EXTINF:-1 channel-id="35.5" channel-number="35.5" tvg-name="BUSTED",35.5 BUSTED
+#EXTINF:-1 tvg-id="Busted.TV.us2" tvg-name="BUSTED - FL1" group-title="Entertainment",BUSTED - FL1
 http://173.229.4.243:5004/auto/v35.5
-#EXTINF:-1 channel-id="35.6" channel-number="35.6" tvg-name="HSN",35.6 HSN
+#EXTINF:-1 tvg-id="HSN.Home.Shopping.Network.HD.us2" tvg-name="HSN1 - FL2" group-title="Shopping",HSN1 - FL2
 http://173.229.4.243:5004/auto/v35.6
-#EXTINF:-1 channel-id="35.7" channel-number="35.7" tvg-name="GameSho",35.7 GameSho
+#EXTINF:-1 tvg-id="plex.tv.Game.Show.Central.plex" tvg-name="Game Show Central - FL1" group-title="Entertainment",Game Show Central - FL1
 http://173.229.4.243:5004/auto/v35.7
-#EXTINF:-1 channel-id="35.8" channel-number="35.8" tvg-name="Mystery",35.8 Mystery
+#EXTINF:-1 tvg-id="plex.tv.Ion.Mystery.plex" tvg-name="ION Mystery - FL1" group-title="Entertainment",ION Mystery - FL1
 http://173.229.4.243:5004/auto/v35.8
-#EXTINF:-1 channel-id="39.1" channel-number="39.1" tvg-name="WSFL-DT",39.1 WSFL-DT
+#EXTINF:-1 tvg-id="WSFL-DT.us_locals1" tvg-name="FL | Miami | WSFL" group-title="Local - CW/IND/MY",FL | Miami | WSFL
 http://173.229.4.243:5004/auto/v39.1
-#EXTINF:-1 channel-id="39.2" channel-number="39.2" tvg-name="CourtTV",39.2 CourtTV
+#EXTINF:-1 tvg-id="Court.TV.us2" tvg-name="Court TV - FL2" group-title="News",Court TV - FL2
 http://173.229.4.243:5004/auto/v39.2
-#EXTINF:-1 channel-id="39.3" channel-number="39.3" tvg-name="AntTV",39.3 AntTV
+#EXTINF:-1 tvg-id="Antenna.TV.us2" tvg-name="Antenna TV - FL" group-title="Entertainment",Antenna TV - FL
 http://173.229.4.243:5004/auto/v39.3
-#EXTINF:-1 channel-id="39.4" channel-number="39.4" tvg-name="IONPLUS",39.4 IONPLUS
+#EXTINF:-1 tvg-id="plex.tv.ION.Plus.plex" tvg-name="ION Plus - FL2" group-title="Entertainment",ION Plus - FL2
 http://173.229.4.243:5004/auto/v39.4
-#EXTINF:-1 channel-id="39.5" channel-number="39.5" tvg-name="QVC",39.5 QVC
+#EXTINF:-1 tvg-id="QVC.HD.us2" tvg-name="QVC1 - FL2" group-title="Shopping",QVC1 - FL2
 http://173.229.4.243:5004/auto/v39.5
-#EXTINF:-1 channel-id="42.1" channel-number="42.1" tvg-name="WXEL-HD",42.1 WXEL-HD
+#EXTINF:-1 tvg-id="WXEL-DT.us_locals1" tvg-name="FL | Miami | PBS WXEL" group-title="Kids & Family",FL | Miami | PBS WXEL
 http://173.229.4.243:5004/auto/v42.1
-#EXTINF:-1 channel-id="45.1" channel-number="45.1" tvg-name="TBN HD",45.1 TBN HD
+#EXTINF:-1 tvg-id="WHFT-DT.us_locals1" tvg-name="TBN English - FL" group-title="Religion",TBN English - FL
 http://173.229.4.243:5004/auto/v45.1
-#EXTINF:-1 channel-id="45.2" channel-number="45.2" tvg-name="Merit",45.2 Merit
+#EXTINF:-1 tvg-id="Merit.TV.us2" tvg-name="Merit - FL" group-title="Religion",Merit - FL
 http://173.229.4.243:5004/auto/v45.2
-#EXTINF:-1 channel-id="45.3" channel-number="45.3" tvg-name="Inspire",45.3 Inspire
+#EXTINF:-1 tvg-id="TBN.Inspire.us2" tvg-name="TBN Inspire - FL" group-title="Religion",TBN Inspire - FL
 http://173.229.4.243:5004/auto/v45.3
-#EXTINF:-1 channel-id="45.4" channel-number="45.4" tvg-name="ONTV4U",45.4 ONTV4U
+#EXTINF:-1 tvg-name="ONTV4U" group-title="Entertainment",45.4 ONTV4U
 http://173.229.4.243:5004/auto/v45.4
-#EXTINF:-1 channel-id="45.5" channel-number="45.5" tvg-name="POSITIV",45.5 POSITIV
+#EXTINF:-1 tvg-id="Positiv.TV.us2" tvg-name="POSITIV - FL" group-title="Religion",POSITIV - FL
 http://173.229.4.243:5004/auto/v45.5
-#EXTINF:-1 channel-id="48.2" channel-number="48.2" tvg-name="Charge!",48.2 Charge!
+#EXTINF:-1 tvg-id="CHARGE!.us2" tvg-name="Charge! - FL3" group-title="Entertainment",Charge! - FL3
 http://173.229.4.243:5004/auto/v48.2
-#EXTINF:-1 channel-id="51.1" channel-number="51.1" tvg-name="WSCV",51.1 WSCV
+#EXTINF:-1 tvg-id="WSCV-DT.us_locals1" tvg-name="Telemundo Miami WSCV" group-title="Spanish",Telemundo Miami WSCV
 http://173.229.4.243:5004/auto/v51.1
-#EXTINF:-1 channel-id="51.2" channel-number="51.2" tvg-name="EXITOS",51.2 EXITOS
+#EXTINF:-1 tvg-name="TeleXitos - FL" group-title="Spanish",TeleXitos - FL
 http://173.229.4.243:5004/auto/v51.2
-#EXTINF:-1 channel-id="51.4" channel-number="51.4" tvg-name="WSCV-PB",51.4 WSCV-PB
+#EXTINF:-1 tvg-id="WSCV-DT.us_locals1" tvg-name="Telemundo WPB WSCV" group-title="Spanish",Telemundo WPB WSCV
 http://173.229.4.243:5004/auto/v51.4
-#EXTINF:-1 channel-id="63.1" channel-number="63.1" tvg-name="WBEC-HD",63.1 WBEC-HD
+#EXTINF:-1 tvg-id="WBEC-DT.us_locals1" tvg-name="FL | Miami | WBEC" group-title="Local - CW/IND/MY",FL | Miami | WBEC
 http://173.229.4.243:5004/auto/v63.1
-#EXTINF:-1 channel-id="63.2" channel-number="63.2" tvg-name="FL Chan",63.2 FL Chan
+#EXTINF:-1 tvg-id="WBEC-DT2.us_locals1" tvg-name="The Florida Channel" group-title="Kids & Family",The Florida Channel
 http://173.229.4.243:5004/auto/v63.2
-#EXTINF:-1 channel-id="67.1" channel-number="67.1" tvg-name="ION",67.1 ION
+#EXTINF:-1 tvg-id="WPXM-DT.us_locals1" tvg-name="ION Television - FL3" group-title="Entertainment",ION Television - FL3
 http://173.229.4.243:5004/auto/v67.1
-#EXTINF:-1 channel-id="67.2" channel-number="67.2" tvg-name="Mystery",67.2 Mystery
+#EXTINF:-1 tvg-id="plex.tv.Ion.Mystery.plex" tvg-name="ION Mystery - FL2" group-title="Entertainment",ION Mystery - FL2
 http://173.229.4.243:5004/auto/v67.2
-#EXTINF:-1 channel-id="67.3" channel-number="67.3" tvg-name="DEFY",67.3 DEFY
+#EXTINF:-1 tvg-id="Defy.TV.us2" tvg-name="DEFY - FL" group-title="Entertainment",DEFY - FL
 http://173.229.4.243:5004/auto/v67.3
-#EXTINF:-1 channel-id="67.4" channel-number="67.4" tvg-name="DABL",67.4 DABL
+#EXTINF:-1 tvg-id="Dabl.us2" tvg-name="DABL - FL2" group-title="Entertainment",DABL - FL2
 http://173.229.4.243:5004/auto/v67.4
-#EXTINF:-1 channel-id="67.5" channel-number="67.5" tvg-name="BUSTED",67.5 BUSTED
+#EXTINF:-1 tvg-id="Busted.TV.us2" tvg-name="BUSTED - FL2" group-title="Entertainment",BUSTED - FL2
 http://173.229.4.243:5004/auto/v67.5
-#EXTINF:-1 channel-id="67.6" channel-number="67.6" tvg-name="GameSho",67.6 GameSho
+#EXTINF:-1 tvg-id="plex.tv.Game.Show.Central.plex" tvg-name="Game Show Central - FL2" group-title="Entertainment",Game Show Central - FL2
 http://173.229.4.243:5004/auto/v67.6
-#EXTINF:-1 channel-id="67.7" channel-number="67.7" tvg-name="HSN2",67.7 HSN2
+#EXTINF:-1 tvg-id="HSN2.us2" tvg-name="HSN2 - FL" group-title="Shopping",HSN2 - FL
 http://173.229.4.243:5004/auto/v67.7
-#EXTINF:-1 channel-id="67.8" channel-number="67.8" tvg-name="HSN",67.8 HSN
+#EXTINF:-1 tvg-id="HSN.Home.Shopping.Network.HD.us2" tvg-name="HSN1 - FL3" group-title="Shopping",HSN1 - FL3
 http://173.229.4.243:5004/auto/v67.8
-#EXTINF:-1 channel-id="67.9" channel-number="67.9" tvg-name="QVC",67.9 QVC
+#EXTINF:-1 tvg-id="QVC.HD.us2" tvg-name="QVC1 - FL3" group-title="Shopping",QVC1 - FL3
 http://173.229.4.243:5004/auto/v67.9
-#EXTINF:-1 channel-id="69.1" channel-number="69.1" tvg-name="WAMI-DT",69.1 WAMI-DT
+#EXTINF:-1 tvg-id="WAMI-DT.us_locals1" tvg-name="UniMas Miami WAMI" group-title="Spanish",UniMas Miami WAMI
 http://173.229.4.243:5004/auto/v69.1
-#EXTINF:-1 channel-id="69.2" channel-number="69.2" tvg-name="Confess",69.2 Confess
+#EXTINF:-1 tvg-id="plex.tv.Confess.by.Nosey.plex" tvg-name="Confess - FL" group-title="Entertainment",Confess - FL
 http://173.229.4.243:5004/auto/v69.2
-#EXTINF:-1 channel-id="69.3" channel-number="69.3" tvg-name="GET",69.3 GET
+#EXTINF:-1 tvg-id="get.us2" tvg-name="GET - FL2" group-title="Entertainment",GET - FL2
 http://173.229.4.243:5004/auto/v69.3
-#EXTINF:-1 channel-id="69.4" channel-number="69.4" tvg-name="BT2",69.4 BT2
+#EXTINF:-1 tvg-name="BT2 - FL" group-title="Entertainment",BT2 - FL
 http://173.229.4.243:5004/auto/v69.4
-#EXTINF:-1 channel-id="69.5" channel-number="69.5" tvg-name="Quest",69.5 Quest
+#EXTINF:-1 tvg-id="Quest.us2" tvg-name="Quest - FL" group-title="Entertainment",Quest - FL
 http://173.229.4.243:5004/auto/v69.5
-#EXTINF:-1 channel-id="104.1" channel-number="104.1" tvg-name="WFOR-TV",104.1 WFOR-TV
+#EXTINF:-1 tvg-id="WFOR-DT.us_locals1" tvg-name="FL | Miami | CBS WFOR HEVC" group-title="Local - CBS",FL | Miami | CBS WFOR HEVC
 http://173.229.4.243:5004/auto/v104.1
-#EXTINF:-1 channel-id="106.1" channel-number="106.1" tvg-name="WTVJ-DT",106.1 WTVJ-DT
+#EXTINF:-1 tvg-id="WTVJ-DT.us_locals1" tvg-name="FL | Miami | NBC WTVJ HEVC" group-title="Local - NBC",FL | Miami | NBC WTVJ HEVC
 http://173.229.4.243:5004/auto/v106.1
-#EXTINF:-1 channel-id="123.1" channel-number="123.1" tvg-name="WLTV-DT",123.1 WLTV-DT
+#EXTINF:-1 tvg-id="WLTV-DT.us_locals1" tvg-name="Univision Miami WLTV HEVC" group-title="Spanish",Univision Miami WLTV HEVC
 http://173.229.4.243:5004/auto/v123.1
-#EXTINF:-1 channel-id="151.1" channel-number="151.1" tvg-name="WSCV-DT",151.1 WSCV-DT
-http://173.229.4.243:5004/auto/v151.1
