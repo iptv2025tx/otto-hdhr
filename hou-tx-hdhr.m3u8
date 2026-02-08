@@ -7,11 +7,11 @@ http://173.229.4.247:5004/auto/v2.2
 http://173.229.4.247:5004/auto/v2.3
 #EXTINF:-1 tvg-name="TX | Houston | KPRC2+" group-title="Local - CW/IND/MY",TX | Houston | KPRC2+
 http://173.229.4.247:5004/auto/v2.4
-#EXTINF:-1 tvg-id="MeTV.Toons.us2" tvg-name="meTV Toons - HOU" group-title="Entertainment",meTV Toons - HOU
+#EXTINF:-1 tvg-id="MeTV.Toons.us2" tvg-name="meTV Toons - HOU" group-title="Kids & Family",meTV Toons - HOU
 http://173.229.4.247:5004/auto/v2.5
 #EXTINF:-1 tvg-id="KUHT-DT.us_locals1" tvg-name="TX | Houston | PBS KUHT" group-title="Kids & Family",TX | Houston | PBS KUHT
 http://173.229.4.247:5004/auto/v8.1
-#EXTINF:-1 tvg-id="Create.us2" tvg-name="Create - HOU" group-title="Entertainment",Create - HOU
+#EXTINF:-1 tvg-id="Create.us2" tvg-name="Create - HOU" group-title="Kids & Family",Create - HOU
 http://173.229.4.247:5004/auto/v8.2
 #EXTINF:-1 tvg-id="PBS.KIDS.HD.us2" tvg-name="PBS Kids - HOU" group-title="Kids & Family",PBS Kids - HOU
 http://173.229.4.247:5004/auto/v8.3
@@ -27,7 +27,7 @@ http://173.229.4.247:5004/auto/v13.1
 http://173.229.4.247:5004/auto/v13.2
 #EXTINF:-1 tvg-id="CHARGE!.us2" tvg-name="Charge - HOU" group-title="Entertainment",Charge - HOU
 http://173.229.4.247:5004/auto/v13.3
-#EXTINF:-1 tvg-id="QVC.HD.us2" tvg-name="QVC1 - HOU" group-title="Entertainment",QVC1 - HOU
+#EXTINF:-1 tvg-id="QVC.HD.us2" tvg-name="QVC1 - HOU" group-title="Shopping",QVC1 - HOU
 http://173.229.4.247:5004/auto/v13.4
 #EXTINF:-1 tvg-id="Trinity.Broadcasting.Network.HD.us2" tvg-name="TBN - HOU" group-title="Religion",TBN - HOU
 http://173.229.4.247:5004/auto/v14.1
@@ -35,7 +35,7 @@ http://173.229.4.247:5004/auto/v14.1
 http://173.229.4.247:5004/auto/v14.2
 #EXTINF:-1 tvg-id="ETBN.Enlace.USA.us2" tvg-name="TBN Enlace - HOU" group-title="Religion",TBN Enlace - HOU
 http://173.229.4.247:5004/auto/v14.3
-#EXTINF:-1 tvg-id="KVVV-DT.us_locals1" tvg-name="Shop HQ - HOU" group-title="Entertainment",Shop HQ - HOU
+#EXTINF:-1 tvg-id="KVVV-DT.us_locals1" tvg-name="Shop HQ - HOU" group-title="Shopping",Shop HQ - HOU
 http://173.229.4.247:5004/auto/v15.1
 #EXTINF:-1 tvg-name="AWSN" group-title="Sports",AWSN - HOU
 http://173.229.4.247:5004/auto/v15.4
@@ -59,13 +59,13 @@ http://173.229.4.247:5004/auto/v15.13
 http://173.229.4.247:5004/auto/v15.14
 #EXTINF:-1 tvg-id="plex.tv.beIN.SPORTS.XTRA.plex" tvg-name="beIN Sports Xtra - HOU" group-title="Sports",beIN Sports Xtra - HOU
 http://173.229.4.247:5004/auto/v15.15
-#EXTINF:-1 tvg-id="SHOPnow.us2" tvg-name="ShopNow - HOU" group-title="Entertainment",ShopNow - HOU
+#EXTINF:-1 tvg-id="SHOPnow.us2" tvg-name="ShopNow - HOU" group-title="Shopping",ShopNow - HOU
 http://173.229.4.247:5004/auto/v15.16
 #EXTINF:-1 tvg-id="KTXH-DT.us_locals1" tvg-name="TX | Houston | MY KTXH" group-title="Local - CW/IND/MY",TX | Houston | MY KTXH
 http://173.229.4.247:5004/auto/v20.1
 #EXTINF:-1 tvg-id="Movies!.us2" tvg-name="Movies! - HOU" group-title="Movies",Movies! - HOU
 http://173.229.4.247:5004/auto/v20.2
-#EXTINF:-1 tvg-id="QVC2.us2" tvg-name="QVC2 - HOU" group-title="Entertainment",QVC2 - HOU
+#EXTINF:-1 tvg-id="QVC2.us2" tvg-name="QVC2 - HOU" group-title="Shopping",QVC2 - HOU
 http://173.229.4.247:5004/auto/v20.3
 #EXTINF:-1 tvg-id="BUZZR.Stream.us2" tvg-name="Buzzr - HOU" group-title="Entertainment",Buzzr - HOU
 http://173.229.4.247:5004/auto/v20.4
@@ -75,7 +75,7 @@ http://173.229.4.247:5004/auto/v21.1
 http://173.229.4.247:5004/auto/v21.2
 #EXTINF:-1 tvg-name="Heartland TV - HOU" group-title="Entertainment",Heartland TV - HOU
 http://173.229.4.247:5004/auto/v21.6
-#EXTINF:-1 tvg-id="Fun.Roads.us2" tvg-name="Fun Road - HOU" group-title="Entertainment",Fun Road - HOU
+#EXTINF:-1 tvg-id="Fun.Roads.us2" tvg-name="Fun Road - HOU" group-title="Sports",Fun Road - HOU
 http://173.229.4.247:5004/auto/v21.15
 #EXTINF:-1 tvg-id="Action.Channel.us2" tvg-name="Action Channel - HOU" group-title="Entertainment",Action Channel - HOU
 http://173.229.4.247:5004/auto/v21.17
@@ -129,13 +129,13 @@ http://173.229.4.247:5004/auto/v45.1
 http://173.229.4.247:5004/auto/v45.2
 #EXTINF:-1 tvg-id="plex.tv.Ion.Mystery.plex" tvg-name="ION Mystery - HOU" group-title="Entertainment",ION Mystery - HOU
 http://173.229.4.247:5004/auto/v45.3
-#EXTINF:-1 tvg-id="plex.tv.MOVIESPHERE.plex" tvg-name="MovieSphere Gold - HOU" group-title="Movies",MovieSphere Gold - HOU
+#EXTINF:-1 tvg-id="WDSF-LD.us_locals1" tvg-name="MovieSphere Gold - HOU" group-title="Movies",MovieSphere Gold - HOU
 http://173.229.4.247:5004/auto/v45.4
-#EXTINF:-1 tvg-id="Shop.LC.us2" tvg-name="Shop LC - HOU1" group-title="Entertainment",Shop LC - HOU1
+#EXTINF:-1 tvg-id="Shop.LC.us2" tvg-name="Shop LC - HOU1" group-title="Shopping",Shop LC - HOU1
 http://173.229.4.247:5004/auto/v45.5
 #EXTINF:-1 tvg-id="KTMD-DT.us_locals1" tvg-name="Telemundo Houston KTMD" group-title="Spanish",Telemundo Houston KTMD
 http://173.229.4.247:5004/auto/v47.1
-#EXTINF:-1 tvg-name="TeleXitos - HOU" group-title="Entertainment",TeleXitos - HOU
+#EXTINF:-1 tvg-name="TeleXitos - HOU" group-title="Spanish",TeleXitos - HOU
 http://173.229.4.247:5004/auto/v47.2
 #EXTINF:-1 tvg-id="NBC.True.CRMZ.us2" tvg-name="NBC True Crimes - HOU" group-title="Entertainment",NBC True Crimes - HOU
 http://173.229.4.247:5004/auto/v47.3
@@ -175,23 +175,23 @@ http://173.229.4.247:5004/auto/v55.1
 http://173.229.4.247:5004/auto/v55.2
 #EXTINF:-1 tvg-name="Nación TV (Spanish) - HOU" group-title="Spanish",Nación TV (Spanish) - HOU
 http://173.229.4.247:5004/auto/v55.3
-#EXTINF:-1 tvg-id="KUBE-DT.us_locals1" tvg-name="Shop LC - HOU2" group-title="Entertainment",Shop LC - HOU2
+#EXTINF:-1 tvg-id="KUBE-DT.us_locals1" tvg-name="Shop LC - HOU2" group-title="Shopping",Shop LC - HOU2
 http://173.229.4.247:5004/auto/v57.1
 #EXTINF:-1 tvg-id="ACE.TV.us2" tvg-name="Ace TV - HOU" group-title="Entertainment",Ace TV - HOU
 http://173.229.4.247:5004/auto/v57.2
-#EXTINF:-1 tvg-id="SonLife.Broadcasting.Network.HD.us2" tvg-name="Sonlife" group-title="Religion",Sonlife
+#EXTINF:-1 tvg-id="SonLife.Broadcasting.Network.HD.us2" tvg-name="Sonlife - HOU" group-title="Religion",Sonlife - HOU
 http://173.229.4.247:5004/auto/v57.3
-#EXTINF:-1 tvg-id="Shop.LC.us2" tvg-name="Shop LC - HOU3" group-title="Entertainment",Shop LC - HOU3
+#EXTINF:-1 tvg-id="Shop.LC.us2" tvg-name="Shop LC - HOU3" group-title="Shopping",Shop LC - HOU3
 http://173.229.4.247:5004/auto/v57.4
 #EXTINF:-1 tvg-name="KUBE 5" group-title="Local - CW/IND/MY",KUBE 5
 http://173.229.4.247:5004/auto/v57.5
 #EXTINF:-1 tvg-name="Mi Raza TV (Spanish) - HOU" group-title="Spanish",Mi Raza TV (Spanish) - HOU
 http://173.229.4.247:5004/auto/v57.6
-#EXTINF:-1 tvg-id="Jewelry.Television.us2" tvg-name="Jewelry TV - HOU" group-title="Entertainment",Jewelry TV - HOU
+#EXTINF:-1 tvg-id="Jewelry.Television.us2" tvg-name="Jewelry TV - HOU" group-title="Shopping",Jewelry TV - HOU
 http://173.229.4.247:5004/auto/v57.8
 #EXTINF:-1 tvg-name="Visión Latina" group-title="Religion",Visión Latina
 http://173.229.4.247:5004/auto/v57.9
-#EXTINF:-1 tvg-name="Shop LC2 - HOU" group-title="Entertainment",Shop LC2 - HOU
+#EXTINF:-1 tvg-name="Shop LC2 - HOU" group-title="Shopping",Shop LC2 - HOU
 http://173.229.4.247:5004/auto/v57.15
 #EXTINF:-1 tvg-id="KZJL-DT.us_locals1" tvg-name="Estrella TV - HOU" group-title="Spanish",Estrella TV - HOU
 http://173.229.4.247:5004/auto/v61.1
@@ -205,7 +205,7 @@ http://173.229.4.247:5004/auto/v67.1
 http://173.229.4.247:5004/auto/v67.2
 #EXTINF:-1 tvg-id="Grit.us2" tvg-name="Grit TV - HOU" group-title="Entertainment",Grit TV - HOU
 http://173.229.4.247:5004/auto/v67.3
-#EXTINF:-1 tvg-id="Home.Shopping.Network.us2" tvg-name="HSN1 - HOU" group-title="Entertainment",HSN1 - HOU
+#EXTINF:-1 tvg-id="Home.Shopping.Network.us2" tvg-name="HSN1 - HOU" group-title="Shopping",HSN1 - HOU
 http://173.229.4.247:5004/auto/v67.4
 #EXTINF:-1 tvg-id="KXLN-DT.us_locals1" tvg-name="Univision Houston2" group-title="Spanish",Univision Houston2
 http://173.229.4.247:5004/auto/v67.5
