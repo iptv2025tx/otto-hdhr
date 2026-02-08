@@ -27,7 +27,7 @@ http://173.229.4.240:5004/auto/v7.3
 http://173.229.4.240:5004/auto/v8.1
 #EXTINF:-1 tvg-id="Daystar.Español.us2" tvg-name="Daystar Spanish - CHI1" group-title="Religion",Daystar Spanish - CHI1
 http://173.229.4.240:5004/auto/v8.2
-#EXTINF:-1 tvg-id="WGN-DT.us_locals1" tvg-name="IL | Chicago | CW WGN1" group-title="Local - CW/MNT",IL | Chicago | CW WGN1
+#EXTINF:-1 tvg-id="WGN-DT.us_locals1" tvg-name="IL | Chicago | CW WGN1" group-title="Local - CW/IND/MY",IL | Chicago | CW WGN1
 http://173.229.4.240:5004/auto/v9.1
 #EXTINF:-1 tvg-id="Antenna.TV.us2" tvg-name="Antenna TV - CHI1" group-title="Entertainment",Antenna TV - CHI1
 http://173.229.4.240:5004/auto/v9.2
@@ -37,33 +37,33 @@ http://173.229.4.240:5004/auto/v9.3
 http://173.229.4.240:5004/auto/v9.4
 #EXTINF:-1 tvg-id="The.Nest.us2" tvg-name="The Nest - CHI1" group-title="Entertainment",The Nest - CHI1
 http://173.229.4.240:5004/auto/v9.5
-#EXTINF:-1 tvg-id="WTTW-DT.us_locals1" tvg-name="IL | Chicago | PBS WTTW1" group-title="Entertainment",IL | Chicago | PBS WTTW1
+#EXTINF:-1 tvg-id="WTTW-DT.us_locals1" tvg-name="IL | Chicago | PBS WTTW1" group-title="Kids & Family",IL | Chicago | PBS WTTW1
 http://173.229.4.240:5004/auto/v11.1
-#EXTINF:-1 tvg-id="Create.us2" tvg-name="Create - CHI1" group-title="Entertainment",Create - CHI1
+#EXTINF:-1 tvg-id="Create.us2" tvg-name="Create - CHI1" group-title="Kids & Family",Create - CHI1
 http://173.229.4.240:5004/auto/v11.3
-#EXTINF:-1 tvg-id="PBS.KIDS.HD.us2" tvg-name="PBS Kids - CHI1" group-title="Entertainment",PBS Kids - CHI1
+#EXTINF:-1 tvg-id="PBS.KIDS.HD.us2" tvg-name="PBS Kids - CHI1" group-title="Kids & Family",PBS Kids - CHI1
 http://173.229.4.240:5004/auto/v11.4
 #EXTINF:-1 tvg-id="WWME-CD.us_locals1" tvg-name="meTV - CHI1" group-title="Entertainment",meTV - CHI1
 http://173.229.4.240:5004/auto/v23.1
 #EXTINF:-1 tvg-id="Heroes.and.Icons.Network.SD.us2" tvg-name="H&I - CHI1" group-title="Entertainment",H&I - CHI1
 http://173.229.4.240:5004/auto/v23.2
-#EXTINF:-1 tvg-id="WCIU-DT.us_locals1" tvg-name="IL | Chicago | The U WCIU" group-title="Local - CW/MNT",IL | Chicago | The U WCIU
+#EXTINF:-1 tvg-id="WCIU-DT.us_locals1" tvg-name="IL | Chicago | The U WCIU" group-title="Local - CW/IND/MY",IL | Chicago | The U WCIU
 http://173.229.4.240:5004/auto/v26.1
-#EXTINF:-1 tvg-id="WMEU-CD.us_locals1" tvg-name="IL | Chicago | U Too WMEU" group-title="Local - CW/MNT",IL | Chicago | U Too WMEU
+#EXTINF:-1 tvg-id="WMEU-CD.us_locals1" tvg-name="IL | Chicago | U Too WMEU" group-title="Local - CW/IND/MY",IL | Chicago | U Too WMEU
 http://173.229.4.240:5004/auto/v26.2
-#EXTINF:-1 tvg-id="Heroes.and.Icons.Network.SD.us2" tvg-name="H&I - CHI1" group-title="Entertainment",H&I - CHI1
+#EXTINF:-1 tvg-id="Heroes.and.Icons.Network.SD.us2" tvg-name="H&I - CHI1 (Backup)" group-title="Entertainment",H&I - CHI1 (Backup)
 http://173.229.4.240:5004/auto/v26.4
 #EXTINF:-1 tvg-id="Story.us2" tvg-name="Story Television - CHI1" group-title="Entertainment",Story Television - CHI1
 http://173.229.4.240:5004/auto/v26.5
 #EXTINF:-1 tvg-id="Catchy.Comedy.us2 " tvg-name="Catchy Comedy - CHI1" group-title="Entertainment",Catchy Comedy - CHI1
 http://173.229.4.240:5004/auto/v26.6
-#EXTINF:-1 tvg-id="MeTV.Toons.us2" tvg-name="meTV Toons - CHI1" group-title="Entertainment",meTV Toons - CHI1
+#EXTINF:-1 tvg-id="MeTV.Toons.us2" tvg-name="meTV Toons - CHI1" group-title="Kids & Family",meTV Toons - CHI1
 http://173.229.4.240:5004/auto/v26.7
 #EXTINF:-1 tvg-id="West.TV.us2" tvg-name="WEST - CHI1" group-title="Entertainment",WEST - CHI1
 http://173.229.4.240:5004/auto/v26.8
 #EXTINF:-1 tvg-id="WFLD-DT.us_locals1" tvg-name="IL | Chicago | FOX WFLD1" group-title="Local - FOX",IL | Chicago | FOX WFLD1
 http://173.229.4.240:5004/auto/v32.1
-#EXTINF:-1 tvg-id="Movies!.us2" tvg-name="Movies! - CHI1" group-title="Entertainment",Movies! - CHI1
+#EXTINF:-1 tvg-id="Movies!.us2" tvg-name="Movies! - CHI1" group-title="Movies",Movies! - CHI1
 http://173.229.4.240:5004/auto/v32.2
 #EXTINF:-1 tvg-id="BUZZR.Stream.us2" tvg-name="Buzzr - CHI1" group-title="Entertainment",Buzzr - CHI1
 http://173.229.4.240:5004/auto/v32.3
@@ -75,7 +75,7 @@ http://173.229.4.240:5004/auto/v32.5
 http://173.229.4.240:5004/auto/v38.1
 #EXTINF:-1 tvg-id="Bounce.TV.us2" tvg-name="Bounce TV - CHI1" group-title="Entertainment",Bounce TV - CHI1
 http://173.229.4.240:5004/auto/v38.2
-#EXTINF:-1 tvg-id="Court.TV.us2" tvg-name="Court TV - CHI1" group-title="Entertainment",Court TV - CHI1
+#EXTINF:-1 tvg-id="Court.TV.us2" tvg-name="Court TV - CHI1" group-title="News",Court TV - CHI1
 http://173.229.4.240:5004/auto/v38.3
 #EXTINF:-1 tvg-id="Laff.us2" tvg-name="Laff - CHI1" group-title="Entertainment",Laff - CHI1
 http://173.229.4.240:5004/auto/v38.4
@@ -85,17 +85,17 @@ http://173.229.4.240:5004/auto/v38.5
 http://173.229.4.240:5004/auto/v38.6
 #EXTINF:-1 tvg-id="plex.tv.Game.Show.Central.plex" tvg-name="Game Show Central - CHI1" group-title="Entertainment",Game Show Central - CHI1
 http://173.229.4.240:5004/auto/v38.7
-#EXTINF:-1 tvg-id="Home.Shopping.Network.us2" tvg-name="HSN1 - CHI1" group-title="Entertainment",HSN1 - CHI1
+#EXTINF:-1 tvg-id="Home.Shopping.Network.us2" tvg-name="HSN1 - CHI1" group-title="Shopping",HSN1 - CHI1
 http://173.229.4.240:5004/auto/v38.8
-#EXTINF:-1 tvg-id="WSNS-DT.us_locals1" tvg-name="Telemundo Chicago WSNS1" group-title="Entertainment",Telemundo Chicago WSNS1
+#EXTINF:-1 tvg-id="WSNS-DT.us_locals1" tvg-name="Telemundo Chicago WSNS1" group-title="Spanish",Telemundo Chicago WSNS1
 http://173.229.4.240:5004/auto/v44.1
-#EXTINF:-1 tvg-name="TeleXitos - CHI1" group-title="Entertainment",TeleXitos - CHI1
+#EXTINF:-1 tvg-name="TeleXitos - CHI1" group-title="Spanish",TeleXitos - CHI1
 http://173.229.4.240:5004/auto/v44.2
 #EXTINF:-1 tvg-id="MeTV.Plus.us2" tvg-name="meTV Plus - CHI1" group-title="Entertainment",meTV Plus - CHI1
 http://173.229.4.240:5004/auto/v48.4
-#EXTINF:-1 tvg-id="WPWR-DT.us_locals1" tvg-name="IL | Chicago | MY WPWR1" group-title="Local - CW/MNT",IL | Chicago | MY WPWR1
+#EXTINF:-1 tvg-id="WPWR-DT.us_locals1" tvg-name="IL | Chicago | MY WPWR1" group-title="Local - CW/IND/MY",IL | Chicago | MY WPWR1
 http://173.229.4.240:5004/auto/v50.1
-#EXTINF:-1 tvg-id="WXFT-DT.us_locals1" tvg-name="UniMas Chicago WXFT1" group-title="Local - Spanish",UniMas Chicago WXFT1
+#EXTINF:-1 tvg-id="WXFT-DT.us_locals1" tvg-name="UniMas Chicago WXFT1" group-title="Spanish",UniMas Chicago WXFT1
 http://173.229.4.240:5004/auto/v60.1
 #EXTINF:-1 tvg-id="plex.tv.Ion.Mystery.plex" tvg-name="ION Mystery - CHI1" group-title="Entertainment",ION Mystery - CHI1
 http://173.229.4.240:5004/auto/v60.2
@@ -103,13 +103,13 @@ http://173.229.4.240:5004/auto/v60.2
 http://173.229.4.240:5004/auto/v60.3
 #EXTINF:-1 tvg-name="Heartland - CHI1" group-title="Entertainment",Heartland - CHI1
 http://173.229.4.240:5004/auto/v62.4
-#EXTINF:-1 tvg-id="QVC.HD.us2" tvg-name="QVC1 - CHI1" group-title="Entertainment",QVC1 - CHI1
+#EXTINF:-1 tvg-id="QVC.HD.us2" tvg-name="QVC1 - CHI1" group-title="Shopping",QVC1 - CHI1
 http://173.229.4.240:5004/auto/v62.5
-#EXTINF:-1 tvg-id="Jewelry.Television.us2" tvg-name="Jewelry TV - CHI1" group-title="Entertainment",Jewelry TV - CHI1
+#EXTINF:-1 tvg-id="Jewelry.Television.us2" tvg-name="Jewelry TV - CHI1" group-title="Shopping",Jewelry TV - CHI1
 http://173.229.4.240:5004/auto/v62.7
-#EXTINF:-1 tvg-id="HSN2.us2" tvg-name="HSN2 - CHI1" group-title="Entertainment",HSN2 - CHI1
+#EXTINF:-1 tvg-id="HSN2.us2" tvg-name="HSN2 - CHI1" group-title="Shopping",HSN2 - CHI1
 http://173.229.4.240:5004/auto/v62.9
-#EXTINF:-1 tvg-id="WGBO-DT.us_locals1" tvg-name="Univision Chicago - WGBO" group-title="Local - Spanish",Univision Chicago - WGBO
+#EXTINF:-1 tvg-id="WGBO-DT.us_locals1" tvg-name="Univision Chicago - WGBO" group-title="Spanish",Univision Chicago - WGBO
 http://173.229.4.240:5004/auto/v66.1
 #EXTINF:-1 tvg-id="WDSF-LD.us_locals1" tvg-name="MovieSphere Gold - CHI1" group-title="Movies",MovieSphere Gold - CHI1
 http://173.229.4.240:5004/auto/v66.2
